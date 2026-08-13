@@ -10,15 +10,17 @@ Every day this repo pulls the latest articles published on [clauday.com](https:/
 ## Latest
 | Date | Lang | Title | Source |
 |---|---|---|---|
-| 2026-08-11 | zh | [运营日志: 2026年8月12日](news/2026-08-11/zh-ac1998eb.md) | [clauday](https://clauday.com/zh/article/ac1998eb-d263-4972-a677-7273c60cfff1) |
-| 2026-08-11 | en | [Ops Log: August 12, 2026](news/2026-08-11/en-6d096784.md) | [clauday](https://clauday.com/article/6d096784-6e9b-4c1e-ad78-860913053834) |
-| 2026-08-11 | zh | [灵感雷达: 2026年8月12日](news/2026-08-11/zh-591378fc.md) | [clauday](https://clauday.com/zh/article/591378fc-63e2-484b-b6a7-99d14f6330d4) |
-| 2026-08-11 | en | [Ideas Radar: August 12, 2026](news/2026-08-11/en-75eacc3c.md) | [clauday](https://clauday.com/article/75eacc3c-1de2-4f82-b812-137152ddcda8) |
-| 2026-08-11 | zh | [Loop 日报: 2026年8月12日](news/2026-08-11/zh-abd8dbdd.md) | [clauday](https://clauday.com/zh/article/abd8dbdd-5e50-49ee-9532-a26386d6b9bc) |
-| 2026-08-11 | en | [Loop Daily: August 12, 2026](news/2026-08-11/en-e82166fe.md) | [clauday](https://clauday.com/article/e82166fe-4d9a-4d0c-a077-7c1beaa16c8e) |
-| 2026-08-11 | zh | [超级用户日报: 2026年8月12日](news/2026-08-11/zh-918d29e2.md) | [clauday](https://clauday.com/zh/article/918d29e2-3e55-4509-bec9-cf6731ab94b1) |
-| 2026-08-11 | en | [Super User Daily: August 12, 2026](news/2026-08-11/en-03a51148.md) | [clauday](https://clauday.com/article/03a51148-23e2-4c5d-b13f-6de7133efbc0) |
-| 2026-08-11 | zh | [1.5 亿参数拿下 ARC-AGI-1 的 29.5%，每题七毫厘](news/2026-08-11/zh-2beb8fcb.md) | [clauday](https://clauday.com/zh/article/2beb8fcb-1118-4394-8ec1-d576aad6664e) |
-| 2026-08-11 | en | [A 150M model scored 29.5% on ARC-AGI-1 at seven ten-](news/2026-08-11/en-ba5ef5f5.md) | [clauday](https://clauday.com/article/ba5ef5f5-b4b3-4c49-a469-22d85ea3b808) |
+| 2026-08-12 | zh | [运营日志: 2026-08-13](news/2026-08-12/zh-ca3349b7.md) | [clauday](https://clauday.com/zh/article/ca3349b7-4b11-4f67-a563-0730e2678b05) |
+| 2026-08-12 | en | [Ops Log: 2026-08-13](news/2026-08-12/en-7a478c9b.md) | [clauday](https://clauday.com/article/7a478c9b-088c-48b0-9d50-0b5f176bc9af) |
+| 2026-08-12 | zh | [灵感雷达: 2026-08-13](news/2026-08-12/zh-43ec1f48.md) | [clauday](https://clauday.com/zh/article/43ec1f48-0990-44e8-b27a-f4cff8dc4e20) |
+| 2026-08-12 | en | [Ideas Radar: 2026-08-13](news/2026-08-12/en-c86b6c24.md) | [clauday](https://clauday.com/article/c86b6c24-81c3-48a1-85fe-93c14a2b5f07) |
+| 2026-08-12 | zh | [Loop 日报: 2026-08-13](news/2026-08-12/zh-c6c62a42.md) | [clauday](https://clauday.com/zh/article/c6c62a42-2c40-40c5-8b3a-ddd1fb6fe454) |
+| 2026-08-12 | en | [Loop Daily: 2026-08-13](news/2026-08-12/en-ab6a0f14.md) | [clauday](https://clauday.com/article/ab6a0f14-e246-410a-b294-d8d63d64e449) |
+| 2026-08-12 | zh | [超级用户日报: 2026-08-13](news/2026-08-12/zh-4e5c9f28.md) | [clauday](https://clauday.com/zh/article/4e5c9f28-0c6b-4232-8292-8287a0265568) |
+| 2026-08-12 | en | [Super User Daily: 2026-08-13](news/2026-08-12/en-aaebd1ec.md) | [clauday](https://clauday.com/article/aaebd1ec-dc66-49d6-8dfb-4a05adf61432) |
+| 2026-08-12 | zh | [Macro 把整个工作空间开源了，为了让 agent 真的够得着你的活](news/2026-08-12/zh-cc5c895d.md) | [clauday](https://clauday.com/zh/article/cc5c895d-f877-4252-bfe8-eed5cb3cc98f) |
+| 2026-08-12 | en | [Macro open-sourced a whole workspace so agents can a](news/2026-08-12/en-bdb4c96c.md) | [clauday](https://clauday.com/article/bdb4c96c-d087-4cd6-8f9a-8e561e843b97) |
+| 2026-08-12 | zh | [一篇新综述把自进化 agent 铺开了，诚实的结论是没人会打分](news/2026-08-12/zh-242c42cc.md) | [clauday](https://clauday.com/zh/article/242c42cc-26dd-460d-8cbe-07e7c2ce1b9d) |
+| 2026-08-12 | en | [A new survey maps self-evolving agents, and the hone](news/2026-08-12/en-b2e265da.md) | [clauday](https://clauday.com/article/b2e265da-b6b1-407b-a46c-92be331fab73) |
 
 _Last synced: 2026-08-13 · maintained by [@feizhuzheng](https://github.com/feizhuzheng) · content from [clauday.com](https://clauday.com)_
