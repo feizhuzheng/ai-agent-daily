@@ -10,17 +10,17 @@ Every day this repo pulls the latest articles published on [clauday.com](https:/
 ## Latest
 | Date | Lang | Title | Source |
 |---|---|---|---|
-| 2026-08-19 | zh | [运营日志: 2026年8月20日](news/2026-08-19/zh-c05425dd.md) | [clauday](https://clauday.com/zh/article/c05425dd-9209-4c52-b850-471c1eca345d) |
-| 2026-08-19 | en | [Ops Log: August 20, 2026](news/2026-08-19/en-ed56b596.md) | [clauday](https://clauday.com/article/ed56b596-940f-4b82-8870-3fec7589fdb4) |
-| 2026-08-19 | zh | [灵感雷达: 2026年8月20日](news/2026-08-19/zh-ae5e9efd.md) | [clauday](https://clauday.com/zh/article/ae5e9efd-0510-4d05-b7f1-277c2cd0920d) |
-| 2026-08-19 | en | [Ideas Radar: August 20, 2026](news/2026-08-19/en-eea0158f.md) | [clauday](https://clauday.com/article/eea0158f-dd39-4c84-836b-1ddce98f28fb) |
-| 2026-08-19 | zh | [Loop 日报: 2026年8月20日](news/2026-08-19/zh-e1f4b69a.md) | [clauday](https://clauday.com/zh/article/e1f4b69a-77d9-470e-8f09-f286ed741424) |
-| 2026-08-19 | en | [Loop Daily: August 20, 2026](news/2026-08-19/en-85bb80fe.md) | [clauday](https://clauday.com/article/85bb80fe-70be-42d0-a6b5-60c2f51787a0) |
-| 2026-08-19 | zh | [超级用户日报: 2026年8月20日](news/2026-08-19/zh-60160332.md) | [clauday](https://clauday.com/zh/article/60160332-19a3-4752-ac0f-3b0d99b57105) |
-| 2026-08-19 | en | [Super User Daily: August 20, 2026](news/2026-08-19/en-8b12d557.md) | [clauday](https://clauday.com/article/8b12d557-64f3-47a2-a8b4-911d55675dbc) |
-| 2026-08-19 | zh | [Agentic ESOpt：不碰 RL 全家桶，也能调 27B 的 agent](news/2026-08-19/zh-e812ac8f.md) | [clauday](https://clauday.com/zh/article/e812ac8f-7895-415c-9dc6-7be81726bdc0) |
-| 2026-08-19 | en | [Agentic ESOpt: Tune a 27B Agent Without the RL Stack](news/2026-08-19/en-cd592ad3.md) | [clauday](https://clauday.com/article/cd592ad3-393d-484c-9ff9-937ff8eaed61) |
-| 2026-08-19 | zh | [Munder Difflin：办公室还是那个办公室，员工换成了你的 agent](news/2026-08-19/zh-6eb6a327.md) | [clauday](https://clauday.com/zh/article/6eb6a327-5a87-4f91-84cd-3ddea280f488) |
-| 2026-08-19 | en | [Munder Difflin: The Office, but the Employees Are Your Agents](news/2026-08-19/en-4788f015.md) | [clauday](https://clauday.com/article/4788f015-002e-4b22-b5b4-25461e959dd6) |
+| 2026-08-20 | zh | [运营日志: 2026-08-21](news/2026-08-20/zh-b921e312.md) | [clauday](https://clauday.com/zh/article/b921e312-bc89-4b82-8f30-13427533f2e7) |
+| 2026-08-20 | en | [Ops Log: 2026-08-21](news/2026-08-20/en-c5650ffb.md) | [clauday](https://clauday.com/article/c5650ffb-da6a-4746-b327-6a8feaa405ab) |
+| 2026-08-20 | zh | [灵感雷达: 2026-08-21](news/2026-08-20/zh-91566989.md) | [clauday](https://clauday.com/zh/article/91566989-ac10-47ee-99f6-313f195b1ba1) |
+| 2026-08-20 | en | [Ideas Radar: 2026-08-21](news/2026-08-20/en-be9aee85.md) | [clauday](https://clauday.com/article/be9aee85-b563-4cb6-989c-84cc70b6938a) |
+| 2026-08-20 | zh | [Loop 日报: 2026-08-21](news/2026-08-20/zh-167a0623.md) | [clauday](https://clauday.com/zh/article/167a0623-2f69-458a-b1b8-d07a39f352b9) |
+| 2026-08-20 | en | [Loop Daily: 2026-08-21](news/2026-08-20/en-cf17498c.md) | [clauday](https://clauday.com/article/cf17498c-ddd9-4d75-8581-9416ba9ef445) |
+| 2026-08-20 | zh | [超级用户日报: 2026-08-21](news/2026-08-20/zh-aa779902.md) | [clauday](https://clauday.com/zh/article/aa779902-c89c-40fa-b939-64927307a11d) |
+| 2026-08-20 | en | [Super User Daily: 2026-08-21](news/2026-08-20/en-ab4f6c48.md) | [clauday](https://clauday.com/article/ab4f6c48-9327-4d4a-a8bc-53984089bfa9) |
+| 2026-08-20 | zh | [SPADE：agent 自己给自己造训练场](news/2026-08-20/zh-147c2d06.md) | [clauday](https://clauday.com/zh/article/147c2d06-5367-40a1-8ced-aa9fc3312d51) |
+| 2026-08-20 | en | [SPADE: The Agent Builds Its Own Gym](news/2026-08-20/en-834df8e7.md) | [clauday](https://clauday.com/article/834df8e7-e7a1-4f5c-8c76-935fec2bcb8c) |
+| 2026-08-20 | zh | [Co-RL：自己给自己打分会崩，一群模型互相打分不会](news/2026-08-20/zh-11a468ee.md) | [clauday](https://clauday.com/zh/article/11a468ee-29eb-462d-b1c7-ad89b05c2fd3) |
+| 2026-08-20 | en | [Co-RL: Models Grading Themselves Collapse. A Cohort Doesn't](news/2026-08-20/en-3720640f.md) | [clauday](https://clauday.com/article/3720640f-6642-4120-9e40-88965ddc0743) |
 
-_Last synced: 2026-08-20 · maintained by [@feizhuzheng](https://github.com/feizhuzheng) · content from [clauday.com](https://clauday.com)_
+_Last synced: 2026-08-21 · maintained by [@feizhuzheng](https://github.com/feizhuzheng) · content from [clauday.com](https://clauday.com)_
