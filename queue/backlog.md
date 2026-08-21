@@ -19,3 +19,8 @@
 - **awesome-dsh-plugin/awesome-dsh-plugin** ⭐10.6k（收录列表，开 issues）——docs/i18n 不一致。
 - 主仓 deepseek-ai/deepseek-harness ⭐17万 **issues 关闭、不收外部 PR**，别在主仓浪费子弹；长线可在 Discussions 发高信号 bug 报告卡位。
 （来源：一次生态调研，已用 GitHub API 逐个核实 star/issues/archived 属实。找到真问题再提，仍守质量门槛。）
+
+## 2026-08-21 · sweep notes (B done: awesome-dsh-plugin#2495 shipped)
+- **anywhere-labs/deepseek-harness-desktop** ⭐16.6k — swept src (truncation/byte-budget/format): exceptionally defensive (byteLength everywhere, Array.from for code-point-safe slicing, correct diagnostic byte-budget accumulation). No bug found this pass; 60 md files, 0 broken relative links. Low hit-rate for our usual truncation angle — deprioritize.
+- **deepseek-ai/awesome-deepseek-integration** ⭐38.9k (official org, last push 2026-02-23) — README docs refs all resolve (53/53), no common typos. Clean; would need a dead external-link pass (network HEAD) to find anything, and it's heavily swept. 
+- **awesome-dsh-plugin/awesome-dsh-plugin** ⭐10.7k — data-driven generated list; found+fixed a real data-integrity bug (plugin file missing .yml extension -> silently dropped) = PR #2495. Future angle here: run `node scripts/generate-readme.mjs --check` for staleness, and scan data/plugins/*.yml for unquoted ': ' in description.en (contributing.md's known parser trap).
