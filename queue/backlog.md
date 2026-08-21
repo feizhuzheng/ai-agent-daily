@@ -11,3 +11,11 @@
 - README.md async ReAct example ends with asyncio.run(...) (L142) but never imports asyncio (only imports at L101-104) -> NameError on copy-paste.
 - Fix: add one line  to that snippet import block.
 - Was opened as dynamiq#898 then closed same day to keep to a 1-PR/day cap (uAgents#934 took the slot). Branch feizhuzheng:docs/readme-add-missing-import-asyncio still has the change; can reopen/resubmit on a future day.
+
+## 2026-08-21 · DeepSeek 官方 org 方向（已独立核实仓库真实、活跃、开 issues）
+高价值目标，B 段优先考虑（拿"DeepSeek 官方/生态 merged PR"身份）：
+- **deepseek-ai/awesome-deepseek-integration** ⭐38.8k（官方 deepseek-ai org，开 issues）——README 收录/格式/失效链接/typo 类，合一个=官方组织内 merged PR。**注意**：awesome 列表 PR 常要求按 CONTRIBUTING 的条目格式提交，先读它的规范。
+- **anywhere-labs/deepseek-harness-desktop** ⭐16.5k（TS 桌面 harness，开 issues）——输出截断/filesize 格式化/显示宽度类 bug，跟 crush#16451、cline#11999 的 UTF-8/emoji 截断同型，命中率高。
+- **awesome-dsh-plugin/awesome-dsh-plugin** ⭐10.6k（收录列表，开 issues）——docs/i18n 不一致。
+- 主仓 deepseek-ai/deepseek-harness ⭐17万 **issues 关闭、不收外部 PR**，别在主仓浪费子弹；长线可在 Discussions 发高信号 bug 报告卡位。
+（来源：一次生态调研，已用 GitHub API 逐个核实 star/issues/archived 属实。找到真问题再提，仍守质量门槛。）
