@@ -10,17 +10,16 @@ Every day this repo pulls the latest articles published on [clauday.com](https:/
 ## Latest
 | Date | Lang | Title | Source |
 |---|---|---|---|
-| 2026-08-21 | zh | [运营日志: 2026-08-22](news/2026-08-21/zh-3a18fdb2.md) | [clauday](https://clauday.com/zh/article/3a18fdb2-8206-4275-affa-d7117ca40909) |
-| 2026-08-21 | en | [Ops Log: 2026-08-22](news/2026-08-21/en-a47a69a2.md) | [clauday](https://clauday.com/article/a47a69a2-3232-4bca-9594-ada1461cbb73) |
-| 2026-08-21 | zh | [灵感雷达: 2026-08-22](news/2026-08-21/zh-e2c8c96f.md) | [clauday](https://clauday.com/zh/article/e2c8c96f-7196-49a5-ad5c-47d3ccbe4486) |
-| 2026-08-21 | en | [Ideas Radar: 2026-08-22](news/2026-08-21/en-a5777135.md) | [clauday](https://clauday.com/article/a5777135-4d12-4f42-81bb-1811256fd380) |
-| 2026-08-21 | zh | [Loop 日报: 2026-08-22](news/2026-08-21/zh-6e26d930.md) | [clauday](https://clauday.com/zh/article/6e26d930-04cd-474a-9bca-1c66d4ced950) |
-| 2026-08-21 | en | [Loop Daily: 2026-08-22](news/2026-08-21/en-1cac094e.md) | [clauday](https://clauday.com/article/1cac094e-617f-4235-8056-d4745ea3f309) |
-| 2026-08-21 | zh | [超级用户日报: 2026-08-22](news/2026-08-21/zh-03991c1e.md) | [clauday](https://clauday.com/zh/article/03991c1e-eafc-4a69-873b-50cf4a12d692) |
-| 2026-08-21 | en | [Super User Daily: 2026-08-22](news/2026-08-21/en-53e4ca7a.md) | [clauday](https://clauday.com/article/53e4ca7a-d597-4e90-a6da-dff27842acf7) |
-| 2026-08-21 | zh | [ChatGPT 现在能替你给朋友发短信了](news/2026-08-21/zh-f5058ffd.md) | [clauday](https://clauday.com/zh/article/f5058ffd-ddd0-4bd8-8aa9-9c93d4936525) |
-| 2026-08-21 | en | [ChatGPT Can Text Your Friends Now](news/2026-08-21/en-b6e6f391.md) | [clauday](https://clauday.com/article/b6e6f391-6548-4a11-bead-02b5e32c2bb7) |
-| 2026-08-21 | zh | [nobuzz：请第二个 AI 来让第一个闭嘴](news/2026-08-21/zh-475c564b.md) | [clauday](https://clauday.com/zh/article/475c564b-98ce-4546-8d60-f3a066b801ba) |
-| 2026-08-21 | en | [nobuzz: a Second AI to Shut the First One Up](news/2026-08-21/en-8c6fbd7e.md) | [clauday](https://clauday.com/article/8c6fbd7e-f05a-4c5c-9b92-a320ff8b5687) |
-
-_Last synced: 2026-08-22 · maintained by [@feizhuzheng](https://github.com/feizhuzheng) · content from [clauday.com](https://clauday.com)_
+| 2026-08-23 | zh | [运营日志: 2026-08-24](news/2026-08-23/zh-9b5dc90e.md) | [clauday](https://clauday.com/zh/article/9b5dc90e-2b02-4ae0-a8f7-d50fc898c795) |
+| 2026-08-23 | en | [Ops Log: 2026-08-24](news/2026-08-23/en-ba92a150.md) | [clauday](https://clauday.com/article/ba92a150-484f-47ee-9e23-b42af436c555) |
+| 2026-08-23 | zh | [灵感雷达: 2026-08-24](news/2026-08-23/zh-226c52dd.md) | [clauday](https://clauday.com/zh/article/226c52dd-004d-4ff4-8a05-8f9247ff4231) |
+| 2026-08-23 | en | [Ideas Radar: 2026-08-24](news/2026-08-23/en-9f4b3d61.md) | [clauday](https://clauday.com/article/9f4b3d61-0e7b-4a5a-9a08-c328031db826) |
+| 2026-08-23 | zh | [Loop 日报: 2026-08-24](news/2026-08-23/zh-0b22bb5d.md) | [clauday](https://clauday.com/zh/article/0b22bb5d-0ca8-4946-9a99-937f7ee7f061) |
+| 2026-08-23 | en | [Loop Daily: 2026-08-24](news/2026-08-23/en-4ed38b89.md) | [clauday](https://clauday.com/article/4ed38b89-e384-4851-bf8f-1eb4928fc2f6) |
+| 2026-08-23 | zh | [超级用户日报: 2026-08-24](news/2026-08-23/zh-51db5a72.md) | [clauday](https://clauday.com/zh/article/51db5a72-fabb-4c11-a9d1-1a49c32f7e7d) |
+| 2026-08-23 | en | [Super User Daily: 2026-08-24](news/2026-08-23/en-c0f2a4b3.md) | [clauday](https://clauday.com/article/c0f2a4b3-f0a5-4e05-8466-75f6a23aa83b) |
+| 2026-08-23 | zh | [原来 agent 的记忆，能把模型搞得更笨](news/2026-08-23/zh-c148edd1.md) | [clauday](https://clauday.com/zh/article/c148edd1-5be7-422c-bd67-49b295a106e2) |
+| 2026-08-23 | en | [Turns Out Agent Memory Can Make the Model Dumber](news/2026-08-23/en-0cc42463.md) | [clauday](https://clauday.com/article/0cc42463-58bf-4a72-80ff-7739d895f47f) |
+| 2026-08-23 | zh | [free-claude-code：绕开前沿模型的民间版本](news/2026-08-23/zh-a1824da6.md) | [clauday](https://clauday.com/zh/article/a1824da6-bf46-4957-b52b-ca50279eaaa1) |
+| 2026-08-23 | en | [free-claude-code Is the Grassroots Version of Routing Around the Frontier](news/2026-08-23/en-ecc6355d.md) | [clauday](https://clauday.com/article/ecc6355d-5bc1-4051-a96b-b9fd4d7428f9) |
+_Last synced: 2026-08-24 · maintained by [@feizhuzheng](https://github.com/feizhuzheng) · content from [clauday.com](https://clauday.com)_
