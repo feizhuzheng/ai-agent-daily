@@ -29,3 +29,15 @@
 - `.github/workflows/pr-gate.yml` L56: `isDocs = (filename) => filename.startsWith('docs/') || rootDocs.has(filename)`. Only `docs/**` + root README/CONTRIBUTING/CODE_OF_CONDUCT/SECURITY count as docs. Markdown docs living under `skills/**`, `examples/**`, `cookbooks/**` (e.g. our #7061 edit to `skills/mem0/references/integration-patterns.md`) are NOT recognized, so genuine documentation-only PRs get auto-closed even though policy states "Documentation-only changes skip this gate entirely."
 - Fix idea: broaden `isDocs` to also treat `*.md`/`*.mdx` files (or add `skills/`, `examples/`, `cookbooks/` prefixes) as docs. BUT this edits a workflow (non-docs) so it would itself be gated -> needs an `accepted` issue first. Don't blind-PR; note for when we're a vouched/accepted contributor.
 - #7061 (relative-link fix) currently auto-closed by this same gap; commented asking for reopen.
+
+## 2026-08-25 · livekit/agents top-level README — ~8 dead example links (verified, NOT PR'd)
+Verified against livekit/agents default branch: the README "Examples" section links to files deleted by the July examples-revamp (PR #5523 "remove redundant files", merged 2026-07-13). None exist anywhere in the repo now:
+- L149 `examples/voice_agents/multi_agent.py` (revamp reason: "favor examples and restaurant agent")
+- L257 `examples/voice_agents/push_to_talk.py`
+- L267 `examples/voice_agents/background_audio.py` (revamp: now docs-only)
+- L274 `examples/voice_agents/dynamic_tool_creation.py`
+- L291 `examples/voice_agents/structured_output.py`
+- L335 `examples/voice_agents/restaurant_agent.py`
+- L308 `examples/other/text_only.py`
+- L325 `examples/avatar_agents/` (revamp: documented on plugin pages)
+Why not PR'd this round: no verifiable 1:1 replacement — the examples were consolidated into docs / removed, and are NOT in the external `livekit-examples/python-agents-examples` repo (code-searched: 0 hits for push_to_talk/structured_output/dynamic_tool_creation/multi_agent/restaurant). Repointing each link (to docs URL vs external repo vs section removal) is maintainer-judgment, so a mass-rewrite would be guesswork = spam risk. Better handled as a GitHub issue, or a PR only after confirming intended targets with maintainers. High visibility (main README, ~13k-star repo) so worth doing once targets are known. Repo has NO PR title-lint/changeset gate; CLA bot on first PR (feizhuzheng already opened #6972 there this run).
