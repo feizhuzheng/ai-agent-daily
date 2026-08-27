@@ -10,6 +10,7 @@ Every day this repo pulls the latest articles published on [clauday.com](https:/
 ## Latest
 | Date | Lang | Title | Source |
 |---|---|---|---|
+| 2026-08-27 | zh | [GLM-5.3-Flash / Ox Alpha 发布传播：110 个节点的四维映射分析](news/2026-08-27/zh-c3398bb3.md) | [clauday](https://clauday.com/zh/article/c3398bb3-6e45-4512-a811-203ce110fe91) |
 | 2026-08-23 | zh | [运营日志: 2026-08-24](news/2026-08-23/zh-9b5dc90e.md) | [clauday](https://clauday.com/zh/article/9b5dc90e-2b02-4ae0-a8f7-d50fc898c795) |
 | 2026-08-23 | en | [Ops Log: 2026-08-24](news/2026-08-23/en-ba92a150.md) | [clauday](https://clauday.com/article/ba92a150-484f-47ee-9e23-b42af436c555) |
 | 2026-08-23 | zh | [灵感雷达: 2026-08-24](news/2026-08-23/zh-226c52dd.md) | [clauday](https://clauday.com/zh/article/226c52dd-004d-4ff4-8a05-8f9247ff4231) |
@@ -22,4 +23,4 @@ Every day this repo pulls the latest articles published on [clauday.com](https:/
 | 2026-08-23 | en | [Turns Out Agent Memory Can Make the Model Dumber](news/2026-08-23/en-0cc42463.md) | [clauday](https://clauday.com/article/0cc42463-58bf-4a72-80ff-7739d895f47f) |
 | 2026-08-23 | zh | [free-claude-code：绕开前沿模型的民间版本](news/2026-08-23/zh-a1824da6.md) | [clauday](https://clauday.com/zh/article/a1824da6-bf46-4957-b52b-ca50279eaaa1) |
 | 2026-08-23 | en | [free-claude-code Is the Grassroots Version of Routing Around the Frontier](news/2026-08-23/en-ecc6355d.md) | [clauday](https://clauday.com/article/ecc6355d-5bc1-4051-a96b-b9fd4d7428f9) |
-_Last synced: 2026-08-24 · maintained by [@feizhuzheng](https://github.com/feizhuzheng) · content from [clauday.com](https://clauday.com)_
+_Last synced: 2026-08-27 · maintained by [@feizhuzheng](https://github.com/feizhuzheng) · content from [clauday.com](https://clauday.com)_
