@@ -10,6 +10,32 @@ Every day this repo pulls the latest articles published on [clauday.com](https:/
 ## Latest
 | Date | Lang | Title | Source |
 |---|---|---|---|
+| 2026-08-28 | zh | [灵感雷达: 2026-08-29](news/2026-08-28/zh-25711844.md) | [clauday](https://clauday.com/zh/article/25711844-5c2f-4936-aca3-a792ebe00a00) |
+| 2026-08-28 | en | [Ideas Radar: 2026-08-29](news/2026-08-28/en-14586aef.md) | [clauday](https://clauday.com/article/14586aef-3e74-461a-8c63-1def92621227) |
+| 2026-08-28 | zh | [Loop 日报: 2026-08-29](news/2026-08-28/zh-59ebc79a.md) | [clauday](https://clauday.com/zh/article/59ebc79a-20d3-4e14-ba24-c67a4d833ec1) |
+| 2026-08-28 | en | [Loop Daily: 2026-08-29](news/2026-08-28/en-2ff08b1c.md) | [clauday](https://clauday.com/article/2ff08b1c-4442-4596-b0ee-29eadf7b2cd8) |
+| 2026-08-28 | zh | [超级用户日报: 2026-08-29](news/2026-08-28/zh-97a64338.md) | [clauday](https://clauday.com/zh/article/97a64338-f87f-492b-964d-f6284f01936c) |
+| 2026-08-28 | en | [Super User Daily: 2026-08-29](news/2026-08-28/en-2ffafac8.md) | [clauday](https://clauday.com/article/2ffafac8-4011-4461-8187-763d20dab325) |
+| 2026-08-28 | zh | [让 agent 造游戏，给世界模型当数据工厂](news/2026-08-28/zh-18b16f79.md) | [clauday](https://clauday.com/zh/article/18b16f79-d1cc-42fa-b660-36e71bd0e94b) |
+| 2026-08-28 | en | [Agents Build Games So World Models Have Something to Learn From](news/2026-08-28/en-222dfdcd.md) | [clauday](https://clauday.com/article/222dfdcd-15d0-42f9-a34d-9b493a851eb4) |
+| 2026-08-28 | zh | [freellmapi：34 家免费额度，缝成每月 74 亿 token](news/2026-08-28/zh-91e2ca93.md) | [clauday](https://clauday.com/zh/article/91e2ca93-8a67-4fff-b925-a8d8d6d989dc) |
+| 2026-08-28 | en | [freellmapi Stitches 34 Free Tiers Into 7.4 Billion Tokens a Month](news/2026-08-28/en-9e6f92ce.md) | [clauday](https://clauday.com/article/9e6f92ce-59c9-447a-87b5-f8006d7f0e48) |
+| 2026-08-28 | zh | [ponytail：故意让你的 agent 少写代码](news/2026-08-28/zh-9b96aeab.md) | [clauday](https://clauday.com/zh/article/9b96aeab-3285-4d95-b468-90299c416eea) |
+| 2026-08-28 | en | [ponytail Makes Your Agent Write Less Code, on Purpose](news/2026-08-28/en-e9815fe0.md) | [clauday](https://clauday.com/article/e9815fe0-b887-41ee-ae66-2bc39a144bce) |
+| 2026-08-28 | zh | [AI agent 在开放数学问题上刷新五项纪录](news/2026-08-28/zh-ff1af608.md) | [clauday](https://clauday.com/zh/article/ff1af608-91d9-416b-a0ba-656d9737d1b6) |
+| 2026-08-28 | en | [AI Agents Set Five New Records in Open Math Problems](news/2026-08-28/en-a5ae1869.md) | [clauday](https://clauday.com/article/a5ae1869-fc22-4a54-ba2d-ddf419653415) |
+| 2026-08-28 | zh | [阿里巴巴的解法：训练模型扛住 harness 变更](news/2026-08-28/zh-80b0d0be.md) | [clauday](https://clauday.com/zh/article/80b0d0be-34e5-4855-8f55-05066ebcbc8d) |
+| 2026-08-28 | en | [Alibaba Trains the Model to Survive Harness Churn](news/2026-08-28/en-f2d7d650.md) | [clauday](https://clauday.com/article/f2d7d650-4da2-4d85-9b5e-30d18c703edb) |
+| 2026-08-28 | zh | [现在，exploit 比补丁先到](news/2026-08-28/zh-52c22aba.md) | [clauday](https://clauday.com/zh/article/52c22aba-55d2-4cf9-adac-3519170b29d9) |
+| 2026-08-28 | en | [The Exploit Now Ships Before the Patch](news/2026-08-28/en-c61d2101.md) | [clauday](https://clauday.com/article/c61d2101-229c-4afb-bd17-de725a3b0595) |
+| 2026-08-28 | zh | [硅谷最抢手的收购标的，是送模型的公司](news/2026-08-28/zh-e11cab14.md) | [clauday](https://clauday.com/zh/article/e11cab14-0a53-4828-a95c-8726dc3f765a) |
+| 2026-08-28 | en | [Open-Weight Companies Are the Valley's Hottest Acquisition Targets](news/2026-08-28/en-6534fd7e.md) | [clauday](https://clauday.com/article/6534fd7e-ab49-4514-9b4a-2ea225190215) |
+| 2026-08-28 | zh | [Anthropic 放出自动研究员，10 个对齐基准全部修复](news/2026-08-28/zh-24afabcc.md) | [clauday](https://clauday.com/zh/article/24afabcc-c1fc-4bb2-93fe-9354c61979c7) |
+| 2026-08-28 | en | [Anthropic's Automated Researchers Fixed All 10 Alignment Benchmarks](news/2026-08-28/en-5515edd5.md) | [clauday](https://clauday.com/article/5515edd5-9419-4a59-a10b-446d0d675b7d) |
+| 2026-08-28 | zh | [法官裁定：五角大楼拉黑 Anthropic 违法](news/2026-08-28/zh-cf51340e.md) | [clauday](https://clauday.com/zh/article/cf51340e-510f-49da-935d-72eea70ff05b) |
+| 2026-08-28 | en | [A Judge Just Ruled the Anthropic Blacklist Illegal](news/2026-08-28/en-cf7e9a57.md) | [clauday](https://clauday.com/article/cf7e9a57-71ee-4421-a0df-34153d6678e0) |
+| 2026-08-28 | zh | [GLM-5.3 权重来了，MIT 没来](news/2026-08-28/zh-16cd4159.md) | [clauday](https://clauday.com/zh/article/16cd4159-d4da-4a85-a965-690a49c9f3b8) |
+| 2026-08-28 | en | [GLM-5.3 Weights Are Out. MIT Is Not.](news/2026-08-28/en-4a18d5b4.md) | [clauday](https://clauday.com/article/4a18d5b4-3971-4e0b-8db2-a0f363f3e1b6) |
 | 2026-08-27 | zh | [运营日志: 2026-08-28](news/2026-08-27/zh-f9fb455f.md) | [clauday](https://clauday.com/zh/article/f9fb455f-6ccb-499f-85f6-89e7da7e1ff7) |
 | 2026-08-27 | en | [Ops Log: 2026-08-28](news/2026-08-27/en-66b45b26.md) | [clauday](https://clauday.com/article/66b45b26-c2f0-408e-9423-1c5a356b3b3f) |
 | 2026-08-27 | zh | [灵感雷达: 2026-08-28](news/2026-08-27/zh-cd8abc42.md) | [clauday](https://clauday.com/zh/article/cd8abc42-990d-495e-af02-76ac734eaeba) |
@@ -50,4 +76,4 @@ Every day this repo pulls the latest articles published on [clauday.com](https:/
 | 2026-08-23 | en | [Turns Out Agent Memory Can Make the Model Dumber](news/2026-08-23/en-0cc42463.md) | [clauday](https://clauday.com/article/0cc42463-58bf-4a72-80ff-7739d895f47f) |
 | 2026-08-23 | zh | [free-claude-code：绕开前沿模型的民间版本](news/2026-08-23/zh-a1824da6.md) | [clauday](https://clauday.com/zh/article/a1824da6-bf46-4957-b52b-ca50279eaaa1) |
 | 2026-08-23 | en | [free-claude-code Is the Grassroots Version of Routing Around the Frontier](news/2026-08-23/en-ecc6355d.md) | [clauday](https://clauday.com/article/ecc6355d-5bc1-4051-a96b-b9fd4d7428f9) |
-_Last synced: 2026-08-28 · maintained by [@feizhuzheng](https://github.com/feizhuzheng) · content from [clauday.com](https://clauday.com)_
+_Last synced: 2026-08-29 · maintained by [@feizhuzheng](https://github.com/feizhuzheng) · content from [clauday.com](https://clauday.com)_
