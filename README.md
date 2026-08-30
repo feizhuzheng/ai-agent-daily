@@ -10,6 +10,34 @@ Every day this repo pulls the latest articles published on [clauday.com](https:/
 ## Latest
 | Date | Lang | Title | Source |
 |---|---|---|---|
+| 2026-08-29 | zh | [运营日志: 2026-08-30](news/2026-08-29/zh-8f4c6e3a.md) | [clauday](https://clauday.com/zh/article/8f4c6e3a-1c15-471f-bd7f-30635913c8eb) |
+| 2026-08-29 | en | [Ops Log: 2026-08-30](news/2026-08-29/en-9214674f.md) | [clauday](https://clauday.com/article/9214674f-e698-4aa2-89c0-abc978fe6b9c) |
+| 2026-08-29 | zh | [Harness 把模型吃掉了](news/2026-08-29/zh-321e55e0.md) | [clauday](https://clauday.com/zh/article/321e55e0-aa39-41b2-ad77-965a878a66d0) |
+| 2026-08-29 | en | [The Harness Ate the Model](news/2026-08-29/en-0e4424e3.md) | [clauday](https://clauday.com/article/0e4424e3-798a-47f8-9786-325addc261e8) |
+| 2026-08-29 | zh | [灵感雷达: 2026-08-30](news/2026-08-29/zh-a09c0da2.md) | [clauday](https://clauday.com/zh/article/a09c0da2-b8dd-4e5b-a216-77abbb8f794d) |
+| 2026-08-29 | en | [Ideas Radar: 2026-08-30](news/2026-08-29/en-389fc7e0.md) | [clauday](https://clauday.com/article/389fc7e0-a6d5-4427-88dc-0f34053e58f5) |
+| 2026-08-29 | zh | [Loop 日报: 2026-08-30](news/2026-08-29/zh-e42f5495.md) | [clauday](https://clauday.com/zh/article/e42f5495-3b36-4a55-95b1-e43838d271a2) |
+| 2026-08-29 | en | [Loop Daily: 2026-08-30](news/2026-08-29/en-c8c05e1f.md) | [clauday](https://clauday.com/article/c8c05e1f-87a9-4967-ad92-f4279afcb2c0) |
+| 2026-08-29 | zh | [超级用户日报: 2026-08-30](news/2026-08-29/zh-83814ef4.md) | [clauday](https://clauday.com/zh/article/83814ef4-a8b3-4878-881b-40b7941b157b) |
+| 2026-08-29 | en | [Super User Daily: 2026-08-30](news/2026-08-29/en-9aa47f48.md) | [clauday](https://clauday.com/article/9aa47f48-93e8-4f5e-b087-6c80aa45fe8c) |
+| 2026-08-29 | zh | [HarnessLens：进化harness，但别把评测预算烧光](news/2026-08-29/zh-737350d4.md) | [clauday](https://clauday.com/zh/article/737350d4-c375-403c-bf69-6e69838eb434) |
+| 2026-08-29 | en | [HarnessLens: Evolving the Harness Without Burning the Eval Budget](news/2026-08-29/en-79d486a3.md) | [clauday](https://clauday.com/article/79d486a3-3972-4339-b2c8-2eed15a787ca) |
+| 2026-08-29 | zh | [WikiSkill：给agent一部wiki，别只给一堆技能](news/2026-08-29/zh-75ec78cb.md) | [clauday](https://clauday.com/zh/article/75ec78cb-ea8f-495f-95c7-d5fe83e0d1e8) |
+| 2026-08-29 | en | [WikiSkill: Give the Agent a Wiki, Not Just Skills](news/2026-08-29/en-f0a4af1b.md) | [clauday](https://clauday.com/article/f0a4af1b-3eeb-49fd-ae6c-bfb21e7d7df2) |
+| 2026-08-29 | zh | [vLLM 0.28：开源权重洪水下，serving层在拼命跟上](news/2026-08-29/zh-076084df.md) | [clauday](https://clauday.com/zh/article/076084df-2b9c-4fd3-82dd-beeee1fe5381) |
+| 2026-08-29 | en | [vLLM 0.28: The Serving Layer Keeps Pace with the Open-Weights Flood](news/2026-08-29/en-bf64c32f.md) | [clauday](https://clauday.com/article/bf64c32f-a440-4dfc-a1d1-ad88af1fe462) |
+| 2026-08-29 | zh | [Cohere Parse 5：跑分认输，按页计价取胜](news/2026-08-29/zh-7ffad5d3.md) | [clauday](https://clauday.com/zh/article/7ffad5d3-12bd-4776-95de-73509da29454) |
+| 2026-08-29 | en | [Cohere Parse 5: Losing the Benchmark, Winning on Cost Per Page](news/2026-08-29/en-8de165c2.md) | [clauday](https://clauday.com/article/8de165c2-bda4-4b76-838f-5bc134bc0996) |
+| 2026-08-29 | zh | [OpenMontage：700个skill文件，把agent变成一家视频工作室](news/2026-08-29/zh-d8ba028e.md) | [clauday](https://clauday.com/zh/article/d8ba028e-3657-46ab-848e-b85ec03855d7) |
+| 2026-08-29 | en | [OpenMontage: 700 Skill Files That Turn Your Agent into a Video Studio](news/2026-08-29/en-7afe39b2.md) | [clauday](https://clauday.com/article/7afe39b2-e033-4234-a837-077d92b6dd83) |
+| 2026-08-29 | zh | [Scientific Agent Skills：165个技能，和一次值得琢磨的改名](news/2026-08-29/zh-af6b3f66.md) | [clauday](https://clauday.com/zh/article/af6b3f66-e376-4257-a402-2624848493c3) |
+| 2026-08-29 | en | [Scientific Agent Skills: 165 Skills and a Telling Rebrand](news/2026-08-29/en-8997635e.md) | [clauday](https://clauday.com/article/8997635e-7386-4639-b2f4-cc3f394d86ac) |
+| 2026-08-29 | zh | [OpenMAIC 1.0：清华把AI教室开源了](news/2026-08-29/zh-ba082bd8.md) | [clauday](https://clauday.com/zh/article/ba082bd8-a858-4b72-93dc-01a33dbb5297) |
+| 2026-08-29 | en | [OpenMAIC 1.0: Tsinghua Open-Sources the AI Classroom](news/2026-08-29/en-b21f4776.md) | [clauday](https://clauday.com/article/b21f4776-c207-440f-85e2-d947a95bff56) |
+| 2026-08-29 | zh | [workweave router：路由淘金热，又来一个能自部署的](news/2026-08-29/zh-af129df6.md) | [clauday](https://clauday.com/zh/article/af129df6-b6c1-45c6-8b68-94ca182348b1) |
+| 2026-08-29 | en | [workweave router: The Routing Gold Rush Gets a Self-Hosted Entry](news/2026-08-29/en-2ae2ce24.md) | [clauday](https://clauday.com/article/2ae2ce24-762f-482d-a239-7e1a7e5827c6) |
+| 2026-08-29 | zh | [腾讯Hy4 Preview开源：770B权重，瞄准的是agent不是聊天](news/2026-08-29/zh-17e62594.md) | [clauday](https://clauday.com/zh/article/17e62594-befb-489f-b48e-68b04427f0ed) |
+| 2026-08-29 | en | [Tencent Hy4 Preview: 770B Open Weights Aimed Straight at Agents](news/2026-08-29/en-85692488.md) | [clauday](https://clauday.com/article/85692488-c14a-4aba-9fec-d3a75cdee57a) |
 | 2026-08-28 | zh | [灵感雷达: 2026-08-29](news/2026-08-28/zh-25711844.md) | [clauday](https://clauday.com/zh/article/25711844-5c2f-4936-aca3-a792ebe00a00) |
 | 2026-08-28 | en | [Ideas Radar: 2026-08-29](news/2026-08-28/en-14586aef.md) | [clauday](https://clauday.com/article/14586aef-3e74-461a-8c63-1def92621227) |
 | 2026-08-28 | zh | [Loop 日报: 2026-08-29](news/2026-08-28/zh-59ebc79a.md) | [clauday](https://clauday.com/zh/article/59ebc79a-20d3-4e14-ba24-c67a4d833ec1) |
@@ -48,32 +76,4 @@ Every day this repo pulls the latest articles published on [clauday.com](https:/
 | 2026-08-27 | en | [Plaud Put a SIM Card in an Earbud Case So You Can Call Your Agents](news/2026-08-27/en-63afaeb9.md) | [clauday](https://clauday.com/article/63afaeb9-0d64-4d8e-8c51-437d429e200c) |
 | 2026-08-27 | zh | [VoiceMem 给语音 agent 装了左脑和右脑](news/2026-08-27/zh-bde9154f.md) | [clauday](https://clauday.com/zh/article/bde9154f-3302-4ae8-b2e3-9421612930ee) |
 | 2026-08-27 | en | [VoiceMem Gives Voice Agents a Left Brain and a Right Brain](news/2026-08-27/en-cd409eb5.md) | [clauday](https://clauday.com/article/cd409eb5-e1c1-4b5b-986f-c9d48b4c3aa0) |
-| 2026-08-27 | zh | [JIT-Agent：harness 变成模型在运行时现写的东西](news/2026-08-27/zh-dab49e5a.md) | [clauday](https://clauday.com/zh/article/dab49e5a-4759-4b69-bfda-379192c926a2) |
-| 2026-08-27 | en | [JIT-Agent Makes the Harness Something the Model Writes at Runtime](news/2026-08-27/en-73320b1d.md) | [clauday](https://clauday.com/article/73320b1d-2d02-4dc1-8876-c0387da504c6) |
-| 2026-08-27 | zh | [archify：不通过校验就不出图的画图技能](news/2026-08-27/zh-4aae6e7c.md) | [clauday](https://clauday.com/zh/article/4aae6e7c-8b6c-48d3-883c-20ad9e856667) |
-| 2026-08-27 | en | [archify: The Diagram Skill That Refuses to Ship Unverified](news/2026-08-27/en-700f88a9.md) | [clauday](https://clauday.com/article/700f88a9-e4b7-4775-b9b4-5c16e80429fb) |
-| 2026-08-27 | zh | [小模型到站了，这周的新闻全在给这篇文章作证](news/2026-08-27/zh-9f3c5913.md) | [clauday](https://clauday.com/zh/article/9f3c5913-d204-4170-a58a-afc2f92a4291) |
-| 2026-08-27 | en | [Small Models Have Arrived, Says the Essay. The Week Agrees.](news/2026-08-27/en-f59ab90a.md) | [clauday](https://clauday.com/article/f59ab90a-a06c-47b3-a3bb-7f67df9286cf) |
-| 2026-08-27 | zh | [Qwen 故意提前把 Qwen4 架构发了](news/2026-08-27/zh-27055e11.md) | [clauday](https://clauday.com/zh/article/27055e11-dcd8-43c0-9af6-ca53dd178a8e) |
-| 2026-08-27 | en | [Qwen Ships the Qwen4 Architecture Early, on Purpose](news/2026-08-27/en-ae2bf5d7.md) | [clauday](https://clauday.com/article/ae2bf5d7-6cbd-4d39-961f-dc8eb0754cb3) |
-| 2026-08-27 | zh | [116 家公司联名签信：防御 AI 攻击的窗口正在关上](news/2026-08-27/zh-0f6080dd.md) | [clauday](https://clauday.com/zh/article/0f6080dd-de9f-441b-a801-2a09daf6c646) |
-| 2026-08-27 | en | [116 Companies Sign a Letter Saying the Window to Defend Against AI Is Closing](news/2026-08-27/en-2238c4ef.md) | [clauday](https://clauday.com/article/2238c4ef-2439-44eb-9dc0-fe3163a7d513) |
-| 2026-08-27 | zh | [Anthropic 的 MHS：给会砸东西的机器准备的 MCP](news/2026-08-27/zh-9899f140.md) | [clauday](https://clauday.com/zh/article/9899f140-cd9f-47c1-90dd-0baec75ebb96) |
-| 2026-08-27 | en | [Anthropic's MHS Is MCP for Machines That Can Break Things](news/2026-08-27/en-628c7b24.md) | [clauday](https://clauday.com/article/628c7b24-e0cb-424f-80c9-2049c9192480) |
-| 2026-08-27 | zh | [英伟达 130 亿美元买下 Hugging Face，开源 AI 有房东了](news/2026-08-27/zh-9e798f68.md) | [clauday](https://clauday.com/zh/article/9e798f68-b822-4729-b344-acd8afca8e7b) |
-| 2026-08-27 | en | [Nvidia Agrees to Buy Hugging Face for $13B, and Open AI Gets a Landlord](news/2026-08-27/en-724fc109.md) | [clauday](https://clauday.com/article/724fc109-ad58-439a-bac1-329e68e5c7ea) |
-| 2026-08-27 | zh | [GLM-5.3-Flash 发布帖引用转发 Top 50：谁转的·转了什么·疑似付费投放打分（Twitter API 实测）](news/2026-08-27/zh-68225b03.md) | [clauday](https://clauday.com/zh/article/68225b03-5a11-4ea8-afa8-37324101578f) |
-| 2026-08-27 | zh | [GLM-5.3-Flash / Ox Alpha 发布传播：110 个节点的四维映射分析](news/2026-08-27/zh-c3398bb3.md) | [clauday](https://clauday.com/zh/article/c3398bb3-6e45-4512-a811-203ce110fe91) |
-| 2026-08-23 | zh | [运营日志: 2026-08-24](news/2026-08-23/zh-9b5dc90e.md) | [clauday](https://clauday.com/zh/article/9b5dc90e-2b02-4ae0-a8f7-d50fc898c795) |
-| 2026-08-23 | en | [Ops Log: 2026-08-24](news/2026-08-23/en-ba92a150.md) | [clauday](https://clauday.com/article/ba92a150-484f-47ee-9e23-b42af436c555) |
-| 2026-08-23 | zh | [灵感雷达: 2026-08-24](news/2026-08-23/zh-226c52dd.md) | [clauday](https://clauday.com/zh/article/226c52dd-004d-4ff4-8a05-8f9247ff4231) |
-| 2026-08-23 | en | [Ideas Radar: 2026-08-24](news/2026-08-23/en-9f4b3d61.md) | [clauday](https://clauday.com/article/9f4b3d61-0e7b-4a5a-9a08-c328031db826) |
-| 2026-08-23 | zh | [Loop 日报: 2026-08-24](news/2026-08-23/zh-0b22bb5d.md) | [clauday](https://clauday.com/zh/article/0b22bb5d-0ca8-4946-9a99-937f7ee7f061) |
-| 2026-08-23 | en | [Loop Daily: 2026-08-24](news/2026-08-23/en-4ed38b89.md) | [clauday](https://clauday.com/article/4ed38b89-e384-4851-bf8f-1eb4928fc2f6) |
-| 2026-08-23 | zh | [超级用户日报: 2026-08-24](news/2026-08-23/zh-51db5a72.md) | [clauday](https://clauday.com/zh/article/51db5a72-fabb-4c11-a9d1-1a49c32f7e7d) |
-| 2026-08-23 | en | [Super User Daily: 2026-08-24](news/2026-08-23/en-c0f2a4b3.md) | [clauday](https://clauday.com/article/c0f2a4b3-f0a5-4e05-8466-75f6a23aa83b) |
-| 2026-08-23 | zh | [原来 agent 的记忆，能把模型搞得更笨](news/2026-08-23/zh-c148edd1.md) | [clauday](https://clauday.com/zh/article/c148edd1-5be7-422c-bd67-49b295a106e2) |
-| 2026-08-23 | en | [Turns Out Agent Memory Can Make the Model Dumber](news/2026-08-23/en-0cc42463.md) | [clauday](https://clauday.com/article/0cc42463-58bf-4a72-80ff-7739d895f47f) |
-| 2026-08-23 | zh | [free-claude-code：绕开前沿模型的民间版本](news/2026-08-23/zh-a1824da6.md) | [clauday](https://clauday.com/zh/article/a1824da6-bf46-4957-b52b-ca50279eaaa1) |
-| 2026-08-23 | en | [free-claude-code Is the Grassroots Version of Routing Around the Frontier](news/2026-08-23/en-ecc6355d.md) | [clauday](https://clauday.com/article/ecc6355d-5bc1-4051-a96b-b9fd4d7428f9) |
-_Last synced: 2026-08-29 · maintained by [@feizhuzheng](https://github.com/feizhuzheng) · content from [clauday.com](https://clauday.com)_
+_Last synced: 2026-08-30 · maintained by [@feizhuzheng](https://github.com/feizhuzheng) · content from [clauday.com](https://clauday.com)_
