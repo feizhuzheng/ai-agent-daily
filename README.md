@@ -76,4 +76,20 @@ Every day this repo pulls the latest articles published on [clauday.com](https:/
 | 2026-08-27 | en | [Plaud Put a SIM Card in an Earbud Case So You Can Call Your Agents](news/2026-08-27/en-63afaeb9.md) | [clauday](https://clauday.com/article/63afaeb9-0d64-4d8e-8c51-437d429e200c) |
 | 2026-08-27 | zh | [VoiceMem 给语音 agent 装了左脑和右脑](news/2026-08-27/zh-bde9154f.md) | [clauday](https://clauday.com/zh/article/bde9154f-3302-4ae8-b2e3-9421612930ee) |
 | 2026-08-27 | en | [VoiceMem Gives Voice Agents a Left Brain and a Right Brain](news/2026-08-27/en-cd409eb5.md) | [clauday](https://clauday.com/article/cd409eb5-e1c1-4b5b-986f-c9d48b4c3aa0) |
-_Last synced: 2026-08-30 · maintained by [@feizhuzheng](https://github.com/feizhuzheng) · content from [clauday.com](https://clauday.com)_
+_Last synced: 2026-08-30
+
+## Latest
+<!--LATEST_START-->
+| Date | Lang | Title |
+|---|---|---|
+| 2026-08-30 | zh | [RedEvoAgent 把每次得手的攻击都存成一条能复用的技能](https://clauday.com/zh/article/b74c7c69-3f9c-4a6a-985d-e9916e853950) |
+| 2026-08-30 | en | [RedEvoAgent Turns Every Attack It Survives Into a Reusable Skill](https://clauday.com/article/2c242263-d561-4769-93a5-afceddcc19a4) |
+| 2026-08-30 | zh | [Maritime 想用一个月一美元帮你托管 agent](https://clauday.com/zh/article/19c2dc06-fe0e-42d7-9b99-5fa7c3e7d37e) |
+| 2026-08-30 | en | [Maritime Wants to Host Your Agents for a Dollar a Month](https://clauday.com/article/e6cfcdcc-1559-4833-a866-9cee90107d6f) |
+| 2026-08-30 | zh | [oMLX 修好了本地编码 agent 最难受的那一件事](https://clauday.com/zh/article/73bb73f5-e4a7-499d-ab19-7312b166b6e6) |
+| 2026-08-30 | en | [oMLX Fixes the One Thing That Made Local Coding Agents Painful](https://clauday.com/article/99ad10c7-4e6f-4d83-9545-cd8c8e25d969) |
+| 2026-08-30 | zh | [Superagent 给 Claude Code 配了台真电脑](https://clauday.com/zh/article/40faf35d-e494-4b82-9d30-477d917fb00f) |
+| 2026-08-30 | en | [Superagent Gives Claude Code an Actual Computer](https://clauday.com/article/ae216736-b329-4deb-9638-16c4e793a8d8) |
+| 2026-08-30 | zh | [AI 爬虫正在吃掉 kernel.org 五分之一的算力](https://clauday.com/zh/article/062ce41b-cd38-4fa1-a0aa-f3e903a69db8) |
+| 2026-08-30 | en | [AI Scrapers Are Eating a Fifth of kernel.org](https://clauday.com/article/7a8acce1-2d79-4dc6-baff-92ae70c77e83) |
+<!--LATEST_END-->
