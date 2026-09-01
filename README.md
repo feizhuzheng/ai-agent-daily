@@ -76,20 +76,20 @@ Every day this repo pulls the latest articles published on [clauday.com](https:/
 | 2026-08-27 | en | [Plaud Put a SIM Card in an Earbud Case So You Can Call Your Agents](news/2026-08-27/en-63afaeb9.md) | [clauday](https://clauday.com/article/63afaeb9-0d64-4d8e-8c51-437d429e200c) |
 | 2026-08-27 | zh | [VoiceMem 给语音 agent 装了左脑和右脑](news/2026-08-27/zh-bde9154f.md) | [clauday](https://clauday.com/zh/article/bde9154f-3302-4ae8-b2e3-9421612930ee) |
 | 2026-08-27 | en | [VoiceMem Gives Voice Agents a Left Brain and a Right Brain](news/2026-08-27/en-cd409eb5.md) | [clauday](https://clauday.com/article/cd409eb5-e1c1-4b5b-986f-c9d48b4c3aa0) |
-_Last synced: 2026-08-30
+_Last synced: 2026-08-31
 
 ## Latest
 <!--LATEST_START-->
 | Date | Lang | Title |
 |---|---|---|
-| 2026-08-30 | zh | [RedEvoAgent 把每次得手的攻击都存成一条能复用的技能](https://clauday.com/zh/article/b74c7c69-3f9c-4a6a-985d-e9916e853950) |
-| 2026-08-30 | en | [RedEvoAgent Turns Every Attack It Survives Into a Reusable Skill](https://clauday.com/article/2c242263-d561-4769-93a5-afceddcc19a4) |
-| 2026-08-30 | zh | [Maritime 想用一个月一美元帮你托管 agent](https://clauday.com/zh/article/19c2dc06-fe0e-42d7-9b99-5fa7c3e7d37e) |
-| 2026-08-30 | en | [Maritime Wants to Host Your Agents for a Dollar a Month](https://clauday.com/article/e6cfcdcc-1559-4833-a866-9cee90107d6f) |
-| 2026-08-30 | zh | [oMLX 修好了本地编码 agent 最难受的那一件事](https://clauday.com/zh/article/73bb73f5-e4a7-499d-ab19-7312b166b6e6) |
-| 2026-08-30 | en | [oMLX Fixes the One Thing That Made Local Coding Agents Painful](https://clauday.com/article/99ad10c7-4e6f-4d83-9545-cd8c8e25d969) |
-| 2026-08-30 | zh | [Superagent 给 Claude Code 配了台真电脑](https://clauday.com/zh/article/40faf35d-e494-4b82-9d30-477d917fb00f) |
-| 2026-08-30 | en | [Superagent Gives Claude Code an Actual Computer](https://clauday.com/article/ae216736-b329-4deb-9638-16c4e793a8d8) |
-| 2026-08-30 | zh | [AI 爬虫正在吃掉 kernel.org 五分之一的算力](https://clauday.com/zh/article/062ce41b-cd38-4fa1-a0aa-f3e903a69db8) |
-| 2026-08-30 | en | [AI Scrapers Are Eating a Fifth of kernel.org](https://clauday.com/article/7a8acce1-2d79-4dc6-baff-92ae70c77e83) |
+| 2026-08-31 | zh | [运营日志: 2026年9月1日](https://clauday.com/zh/article/68d9bac3-824d-4247-a235-d0abb7a2ffde) |
+| 2026-08-31 | en | [Ops Log: September 1, 2026](https://clauday.com/article/0f69f5d8-5fe7-47c7-b4fa-6a2350c8c024) |
+| 2026-08-31 | zh | [灵感雷达: 2026年9月1日](https://clauday.com/zh/article/83729637-24ef-49cf-94db-69df33ead199) |
+| 2026-08-31 | en | [Ideas Radar: September 1, 2026](https://clauday.com/article/0aa725d2-e1a7-47aa-9234-776031216805) |
+| 2026-08-31 | zh | [Loop 日报: 2026年9月1日](https://clauday.com/zh/article/265ffa33-b690-4b6e-bd27-430fc41c2320) |
+| 2026-08-31 | en | [Loop Daily: September 1, 2026](https://clauday.com/article/9254f799-68d3-461e-984a-4abc9e8dd6b0) |
+| 2026-08-31 | zh | [超级用户日报: 2026年9月1日](https://clauday.com/zh/article/dc6be604-1087-40b9-8e6a-fee3d7b6a892) |
+| 2026-08-31 | en | [Super User Daily: September 1, 2026](https://clauday.com/article/551a6eb4-d22b-432a-931b-ef2a078207ee) |
+| 2026-08-31 | zh | [DART-SD：别让蒸馏把 agent 的路走窄了](https://clauday.com/zh/article/1b44d3b3-698d-4dc0-9744-0361f4691c25) |
+| 2026-08-31 | en | [DART-SD Stops Distillation From Flattening Agent Diversity](https://clauday.com/article/5a15c454-36d1-4c93-9a4f-333990cb2ecc) |
 <!--LATEST_END-->
