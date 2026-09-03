@@ -76,20 +76,20 @@ Every day this repo pulls the latest articles published on [clauday.com](https:/
 | 2026-08-27 | en | [Plaud Put a SIM Card in an Earbud Case So You Can Call Your Agents](news/2026-08-27/en-63afaeb9.md) | [clauday](https://clauday.com/article/63afaeb9-0d64-4d8e-8c51-437d429e200c) |
 | 2026-08-27 | zh | [VoiceMem 给语音 agent 装了左脑和右脑](news/2026-08-27/zh-bde9154f.md) | [clauday](https://clauday.com/zh/article/bde9154f-3302-4ae8-b2e3-9421612930ee) |
 | 2026-08-27 | en | [VoiceMem Gives Voice Agents a Left Brain and a Right Brain](news/2026-08-27/en-cd409eb5.md) | [clauday](https://clauday.com/article/cd409eb5-e1c1-4b5b-986f-c9d48b4c3aa0) |
-_Last synced: 2026-08-31
+_Last synced: 2026-09-02
 
 ## Latest
 <!--LATEST_START-->
 | Date | Lang | Title |
 |---|---|---|
-| 2026-08-31 | zh | [运营日志: 2026年9月1日](https://clauday.com/zh/article/68d9bac3-824d-4247-a235-d0abb7a2ffde) |
-| 2026-08-31 | en | [Ops Log: September 1, 2026](https://clauday.com/article/0f69f5d8-5fe7-47c7-b4fa-6a2350c8c024) |
-| 2026-08-31 | zh | [灵感雷达: 2026年9月1日](https://clauday.com/zh/article/83729637-24ef-49cf-94db-69df33ead199) |
-| 2026-08-31 | en | [Ideas Radar: September 1, 2026](https://clauday.com/article/0aa725d2-e1a7-47aa-9234-776031216805) |
-| 2026-08-31 | zh | [Loop 日报: 2026年9月1日](https://clauday.com/zh/article/265ffa33-b690-4b6e-bd27-430fc41c2320) |
-| 2026-08-31 | en | [Loop Daily: September 1, 2026](https://clauday.com/article/9254f799-68d3-461e-984a-4abc9e8dd6b0) |
-| 2026-08-31 | zh | [超级用户日报: 2026年9月1日](https://clauday.com/zh/article/dc6be604-1087-40b9-8e6a-fee3d7b6a892) |
-| 2026-08-31 | en | [Super User Daily: September 1, 2026](https://clauday.com/article/551a6eb4-d22b-432a-931b-ef2a078207ee) |
-| 2026-08-31 | zh | [DART-SD：别让蒸馏把 agent 的路走窄了](https://clauday.com/zh/article/1b44d3b3-698d-4dc0-9744-0361f4691c25) |
-| 2026-08-31 | en | [DART-SD Stops Distillation From Flattening Agent Diversity](https://clauday.com/article/5a15c454-36d1-4c93-9a4f-333990cb2ecc) |
+| 2026-09-02 | zh | [运营日志: 2026-09-03](https://clauday.com/zh/article/c552bd17-6418-4a01-a83e-f052b3826c73) |
+| 2026-09-02 | en | [Ops Log: 2026-09-03](https://clauday.com/article/b6d352fe-f6ee-4860-bf31-6f2a1ad55f75) |
+| 2026-09-02 | zh | [灵感雷达: 2026-09-03](https://clauday.com/zh/article/2dccdad2-07e8-4697-9761-e52501dbfb5b) |
+| 2026-09-02 | en | [Ideas Radar: 2026-09-03](https://clauday.com/article/51a15517-63be-4655-a9f2-95717a8b4d5b) |
+| 2026-09-02 | zh | [Loop 日报: 2026-09-03](https://clauday.com/zh/article/adbb6664-a22d-4982-9bec-30bf4398a491) |
+| 2026-09-02 | en | [Loop Daily: 2026-09-03](https://clauday.com/article/233f5e90-0649-4cad-b7b4-90390485243b) |
+| 2026-09-02 | zh | [超级用户日报: 2026-09-03](https://clauday.com/zh/article/0bd899a2-8a09-41a8-96c6-d30380c36f97) |
+| 2026-09-02 | en | [Super User Daily: 2026-09-03](https://clauday.com/article/1ed6b5d7-4819-42ef-9704-aa306a4587a8) |
+| 2026-09-02 | zh | [Academic Research Skills：一个插件塞进 13 个研究员](https://clauday.com/zh/article/abf2649d-add7-42eb-b3b6-1c1422882d9c) |
+| 2026-09-02 | en | [Academic Research Skills: A 13-Agent Research Team in a Plugin](https://clauday.com/article/244079a0-4d27-44ab-806e-ce46980afe1b) |
 <!--LATEST_END-->
