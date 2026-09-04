@@ -76,20 +76,20 @@ Every day this repo pulls the latest articles published on [clauday.com](https:/
 | 2026-08-27 | en | [Plaud Put a SIM Card in an Earbud Case So You Can Call Your Agents](news/2026-08-27/en-63afaeb9.md) | [clauday](https://clauday.com/article/63afaeb9-0d64-4d8e-8c51-437d429e200c) |
 | 2026-08-27 | zh | [VoiceMem 给语音 agent 装了左脑和右脑](news/2026-08-27/zh-bde9154f.md) | [clauday](https://clauday.com/zh/article/bde9154f-3302-4ae8-b2e3-9421612930ee) |
 | 2026-08-27 | en | [VoiceMem Gives Voice Agents a Left Brain and a Right Brain](news/2026-08-27/en-cd409eb5.md) | [clauday](https://clauday.com/article/cd409eb5-e1c1-4b5b-986f-c9d48b4c3aa0) |
-_Last synced: 2026-09-02
+_Last synced: 2026-09-03
 
 ## Latest
 <!--LATEST_START-->
 | Date | Lang | Title |
 |---|---|---|
-| 2026-09-02 | zh | [运营日志: 2026-09-03](https://clauday.com/zh/article/c552bd17-6418-4a01-a83e-f052b3826c73) |
-| 2026-09-02 | en | [Ops Log: 2026-09-03](https://clauday.com/article/b6d352fe-f6ee-4860-bf31-6f2a1ad55f75) |
-| 2026-09-02 | zh | [灵感雷达: 2026-09-03](https://clauday.com/zh/article/2dccdad2-07e8-4697-9761-e52501dbfb5b) |
-| 2026-09-02 | en | [Ideas Radar: 2026-09-03](https://clauday.com/article/51a15517-63be-4655-a9f2-95717a8b4d5b) |
-| 2026-09-02 | zh | [Loop 日报: 2026-09-03](https://clauday.com/zh/article/adbb6664-a22d-4982-9bec-30bf4398a491) |
-| 2026-09-02 | en | [Loop Daily: 2026-09-03](https://clauday.com/article/233f5e90-0649-4cad-b7b4-90390485243b) |
-| 2026-09-02 | zh | [超级用户日报: 2026-09-03](https://clauday.com/zh/article/0bd899a2-8a09-41a8-96c6-d30380c36f97) |
-| 2026-09-02 | en | [Super User Daily: 2026-09-03](https://clauday.com/article/1ed6b5d7-4819-42ef-9704-aa306a4587a8) |
-| 2026-09-02 | zh | [Academic Research Skills：一个插件塞进 13 个研究员](https://clauday.com/zh/article/abf2649d-add7-42eb-b3b6-1c1422882d9c) |
-| 2026-09-02 | en | [Academic Research Skills: A 13-Agent Research Team in a Plugin](https://clauday.com/article/244079a0-4d27-44ab-806e-ce46980afe1b) |
+| 2026-09-03 | zh | [运营日志: 2026-09-04](https://clauday.com/zh/article/3b2ba1a4-33bf-43f3-8d53-222098cd1dd9) |
+| 2026-09-03 | en | [Ops Log: 2026-09-04](https://clauday.com/article/ceab3a05-0ed8-4ab9-9a5e-a0090c65a918) |
+| 2026-09-03 | zh | [灵感雷达: 2026-09-04](https://clauday.com/zh/article/2e3ec168-ed90-4d9a-b702-fad0cdf9b47c) |
+| 2026-09-03 | en | [Ideas Radar: 2026-09-04](https://clauday.com/article/ba613152-ff38-496d-a083-865eab7d715d) |
+| 2026-09-03 | zh | [Loop 日报: 2026-09-04](https://clauday.com/zh/article/9c3342ee-1209-4099-b1db-90dd32006efc) |
+| 2026-09-03 | en | [Loop Daily: 2026-09-04](https://clauday.com/article/3df4682c-d2a5-4dfa-a32e-fd415b01c6d9) |
+| 2026-09-03 | zh | [超级用户日报: 2026-09-04](https://clauday.com/zh/article/128c745e-a77f-405c-b513-410c96a05127) |
+| 2026-09-03 | en | [Super User Daily: 2026-09-04](https://clauday.com/article/6cbc3e4e-1aaa-4dba-80de-6cefa2e9c6e4) |
+| 2026-09-03 | zh | [Airtop 对 agent 成本的回答：把 agent 编译掉](https://clauday.com/zh/article/246e99a2-395f-4ca6-8625-819276896bcf) |
+| 2026-09-03 | en | [Airtop's Answer to Agent Costs: Compile the Agent Away](https://clauday.com/article/71e9f22d-1d73-4773-b289-f68eb1bde143) |
 <!--LATEST_END-->
