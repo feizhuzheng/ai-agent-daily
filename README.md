@@ -76,20 +76,20 @@ Every day this repo pulls the latest articles published on [clauday.com](https:/
 | 2026-08-27 | en | [Plaud Put a SIM Card in an Earbud Case So You Can Call Your Agents](news/2026-08-27/en-63afaeb9.md) | [clauday](https://clauday.com/article/63afaeb9-0d64-4d8e-8c51-437d429e200c) |
 | 2026-08-27 | zh | [VoiceMem 给语音 agent 装了左脑和右脑](news/2026-08-27/zh-bde9154f.md) | [clauday](https://clauday.com/zh/article/bde9154f-3302-4ae8-b2e3-9421612930ee) |
 | 2026-08-27 | en | [VoiceMem Gives Voice Agents a Left Brain and a Right Brain](news/2026-08-27/en-cd409eb5.md) | [clauday](https://clauday.com/article/cd409eb5-e1c1-4b5b-986f-c9d48b4c3aa0) |
-_Last synced: 2026-09-05
+_Last synced: 2026-09-06
 
 ## Latest
 <!--LATEST_START-->
 | Date | Lang | Title |
 |---|---|---|
-| 2026-09-05 | zh | [运营日志: 2026-09-06](https://clauday.com/zh/article/d751f7f5-b52a-4c91-8193-a5ec522ca16b) |
-| 2026-09-05 | en | [Ops Log: 2026-09-06](https://clauday.com/article/7ef5675b-f514-4b56-ab97-d79f13293a19) |
-| 2026-09-05 | zh | [谁来审计循环？验证变成产品的一周](https://clauday.com/zh/article/228b4b10-a267-4038-a779-62daf05d1d20) |
-| 2026-09-05 | en | [Who Audits the Loop? The Week Verification Became the Product](https://clauday.com/article/0637f1ca-e93f-4c63-b4a2-97b3632bb6b0) |
-| 2026-09-05 | zh | [灵感雷达: 2026-09-06](https://clauday.com/zh/article/3e001fbd-bde0-42f3-8a48-2ef4299aded5) |
-| 2026-09-05 | en | [Ideas Radar: 2026-09-06](https://clauday.com/article/68c1674a-f770-49af-9d37-70ea3b19b814) |
-| 2026-09-05 | zh | [Loop 日报: 2026-09-06](https://clauday.com/zh/article/acab97d4-b9ed-405b-bb11-eae684e67208) |
-| 2026-09-05 | en | [Loop Daily: 2026-09-06](https://clauday.com/article/bf2b9910-e885-4949-a4de-cbab925884f8) |
-| 2026-09-05 | zh | [超级用户日报: 2026-09-06](https://clauday.com/zh/article/4c78a458-48ff-4705-ab73-d4110b447d56) |
-| 2026-09-05 | en | [Super User Daily: 2026-09-06](https://clauday.com/article/094f10a0-b6ad-4a40-8248-eb09ff744ae7) |
+| 2026-09-06 | zh | [灵感雷达: 2026-09-07](https://clauday.com/zh/article/c141d0e5-ccfa-4a26-a54f-6865e0302344) |
+| 2026-09-06 | zh | [运营日志: 2026-09-07](https://clauday.com/zh/article/2644f100-65ef-4418-88e4-83d0f8c1207d) |
+| 2026-09-06 | en | [Ops Log: 2026-09-07](https://clauday.com/article/25feb686-a317-4255-9f56-2b0ba023da22) |
+| 2026-09-06 | zh | [Loop 日报: 2026-09-07](https://clauday.com/zh/article/27899344-c244-4a8a-8167-1cfae502b6b9) |
+| 2026-09-06 | en | [Ideas Radar: 2026-09-07](https://clauday.com/article/77d27c64-84f3-4e24-bf6f-2d05d7d90dd5) |
+| 2026-09-06 | zh | [超级用户日报: 2026-09-07](https://clauday.com/zh/article/099184d9-88a7-47ae-9092-83aec32c793e) |
+| 2026-09-06 | en | [Loop Daily: 2026-09-07](https://clauday.com/article/6895da07-6440-4f90-8a40-00e0351b4101) |
+| 2026-09-06 | en | [Super User Daily: 2026-09-07](https://clauday.com/article/f92934ec-4876-46f2-9bab-727d1086ad63) |
+| 2026-09-06 | zh | [LLM 裁判：读数会漂移，理由是编的](https://clauday.com/zh/article/41105bda-2183-41de-8eef-4750f300e6d7) |
+| 2026-09-06 | en | [Your LLM Judge Drifts, and Its Reasons Are Confabulated](https://clauday.com/article/313c378e-ee52-490b-8348-f57f6ce2f69e) |
 <!--LATEST_END-->
