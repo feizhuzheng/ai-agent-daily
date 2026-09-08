@@ -76,20 +76,20 @@ Every day this repo pulls the latest articles published on [clauday.com](https:/
 | 2026-08-27 | en | [Plaud Put a SIM Card in an Earbud Case So You Can Call Your Agents](news/2026-08-27/en-63afaeb9.md) | [clauday](https://clauday.com/article/63afaeb9-0d64-4d8e-8c51-437d429e200c) |
 | 2026-08-27 | zh | [VoiceMem 给语音 agent 装了左脑和右脑](news/2026-08-27/zh-bde9154f.md) | [clauday](https://clauday.com/zh/article/bde9154f-3302-4ae8-b2e3-9421612930ee) |
 | 2026-08-27 | en | [VoiceMem Gives Voice Agents a Left Brain and a Right Brain](news/2026-08-27/en-cd409eb5.md) | [clauday](https://clauday.com/article/cd409eb5-e1c1-4b5b-986f-c9d48b4c3aa0) |
-_Last synced: 2026-09-06
+_Last synced: 2026-09-07
 
 ## Latest
 <!--LATEST_START-->
 | Date | Lang | Title |
 |---|---|---|
-| 2026-09-06 | zh | [灵感雷达: 2026-09-07](https://clauday.com/zh/article/c141d0e5-ccfa-4a26-a54f-6865e0302344) |
-| 2026-09-06 | zh | [运营日志: 2026-09-07](https://clauday.com/zh/article/2644f100-65ef-4418-88e4-83d0f8c1207d) |
-| 2026-09-06 | en | [Ops Log: 2026-09-07](https://clauday.com/article/25feb686-a317-4255-9f56-2b0ba023da22) |
-| 2026-09-06 | zh | [Loop 日报: 2026-09-07](https://clauday.com/zh/article/27899344-c244-4a8a-8167-1cfae502b6b9) |
-| 2026-09-06 | en | [Ideas Radar: 2026-09-07](https://clauday.com/article/77d27c64-84f3-4e24-bf6f-2d05d7d90dd5) |
-| 2026-09-06 | zh | [超级用户日报: 2026-09-07](https://clauday.com/zh/article/099184d9-88a7-47ae-9092-83aec32c793e) |
-| 2026-09-06 | en | [Loop Daily: 2026-09-07](https://clauday.com/article/6895da07-6440-4f90-8a40-00e0351b4101) |
-| 2026-09-06 | en | [Super User Daily: 2026-09-07](https://clauday.com/article/f92934ec-4876-46f2-9bab-727d1086ad63) |
-| 2026-09-06 | zh | [LLM 裁判：读数会漂移，理由是编的](https://clauday.com/zh/article/41105bda-2183-41de-8eef-4750f300e6d7) |
-| 2026-09-06 | en | [Your LLM Judge Drifts, and Its Reasons Are Confabulated](https://clauday.com/article/313c378e-ee52-490b-8348-f57f6ce2f69e) |
+| 2026-09-07 | zh | [运营日志: 2026-09-08](https://clauday.com/zh/article/bcbb4c7a-4c2f-42b2-8d9c-14caf83947d8) |
+| 2026-09-07 | en | [Ops Log: 2026-09-08](https://clauday.com/article/9ddd5061-2fcb-4a82-82cd-ee21d8767709) |
+| 2026-09-07 | zh | [Loop 日报: 2026-09-08](https://clauday.com/zh/article/4186edd0-58d3-4055-bdc2-507fd7e749f7) |
+| 2026-09-07 | zh | [灵感雷达: 2026-09-08](https://clauday.com/zh/article/41dbbc60-40b2-40d1-932b-d6e339e24b11) |
+| 2026-09-07 | zh | [超级用户日报: 2026-09-08](https://clauday.com/zh/article/4d0dc11d-3a8a-4b64-ba24-442f66b91988) |
+| 2026-09-07 | en | [Ideas Radar: 2026-09-08](https://clauday.com/article/3942bc51-1c8c-4740-be1c-2c9ba1795cdb) |
+| 2026-09-07 | en | [Loop Daily: 2026-09-08](https://clauday.com/article/c67ece68-a3e5-4924-9cbc-56aceb70f6ed) |
+| 2026-09-07 | en | [Super User Daily: 2026-09-08](https://clauday.com/article/f8b71cb1-e933-43ec-9490-f9e17fd57042) |
+| 2026-09-07 | zh | [Sierra 的新基准：给「造 agent 的 agent」打分](https://clauday.com/zh/article/c304941d-3bb5-448b-bd63-24a810d0470f) |
+| 2026-09-07 | en | [Sierra's New Benchmark Grades the Agent That Builds the Agent](https://clauday.com/article/5d9116da-2469-4c01-a714-6a53c86c3ab7) |
 <!--LATEST_END-->
