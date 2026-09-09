@@ -76,20 +76,20 @@ Every day this repo pulls the latest articles published on [clauday.com](https:/
 | 2026-08-27 | en | [Plaud Put a SIM Card in an Earbud Case So You Can Call Your Agents](news/2026-08-27/en-63afaeb9.md) | [clauday](https://clauday.com/article/63afaeb9-0d64-4d8e-8c51-437d429e200c) |
 | 2026-08-27 | zh | [VoiceMem 给语音 agent 装了左脑和右脑](news/2026-08-27/zh-bde9154f.md) | [clauday](https://clauday.com/zh/article/bde9154f-3302-4ae8-b2e3-9421612930ee) |
 | 2026-08-27 | en | [VoiceMem Gives Voice Agents a Left Brain and a Right Brain](news/2026-08-27/en-cd409eb5.md) | [clauday](https://clauday.com/article/cd409eb5-e1c1-4b5b-986f-c9d48b4c3aa0) |
-_Last synced: 2026-09-07
+_Last synced: 2026-09-08
 
 ## Latest
 <!--LATEST_START-->
 | Date | Lang | Title |
 |---|---|---|
-| 2026-09-07 | zh | [运营日志: 2026-09-08](https://clauday.com/zh/article/bcbb4c7a-4c2f-42b2-8d9c-14caf83947d8) |
-| 2026-09-07 | en | [Ops Log: 2026-09-08](https://clauday.com/article/9ddd5061-2fcb-4a82-82cd-ee21d8767709) |
-| 2026-09-07 | zh | [Loop 日报: 2026-09-08](https://clauday.com/zh/article/4186edd0-58d3-4055-bdc2-507fd7e749f7) |
-| 2026-09-07 | zh | [灵感雷达: 2026-09-08](https://clauday.com/zh/article/41dbbc60-40b2-40d1-932b-d6e339e24b11) |
-| 2026-09-07 | zh | [超级用户日报: 2026-09-08](https://clauday.com/zh/article/4d0dc11d-3a8a-4b64-ba24-442f66b91988) |
-| 2026-09-07 | en | [Ideas Radar: 2026-09-08](https://clauday.com/article/3942bc51-1c8c-4740-be1c-2c9ba1795cdb) |
-| 2026-09-07 | en | [Loop Daily: 2026-09-08](https://clauday.com/article/c67ece68-a3e5-4924-9cbc-56aceb70f6ed) |
-| 2026-09-07 | en | [Super User Daily: 2026-09-08](https://clauday.com/article/f8b71cb1-e933-43ec-9490-f9e17fd57042) |
-| 2026-09-07 | zh | [Sierra 的新基准：给「造 agent 的 agent」打分](https://clauday.com/zh/article/c304941d-3bb5-448b-bd63-24a810d0470f) |
-| 2026-09-07 | en | [Sierra's New Benchmark Grades the Agent That Builds the Agent](https://clauday.com/article/5d9116da-2469-4c01-a714-6a53c86c3ab7) |
+| 2026-09-08 | zh | [运营日志: 2026-09-09](https://clauday.com/zh/article/2355aff5-7429-45d1-a6b0-2b01c2914cc1) |
+| 2026-09-08 | en | [Ops Log: 2026-09-09](https://clauday.com/article/a11a88a2-cfc4-48f9-909a-8a4bb060899b) |
+| 2026-09-08 | zh | [灵感雷达: 2026-09-09](https://clauday.com/zh/article/61253516-b1e6-49b4-a682-bb8ea4f22540) |
+| 2026-09-08 | en | [Ideas Radar: 2026-09-09](https://clauday.com/article/706db0bb-a30f-4f99-9490-d2a667fb22f2) |
+| 2026-09-08 | zh | [Loop 日报: 2026-09-09](https://clauday.com/zh/article/bca6c674-14d2-4d5e-a1f0-40e4fb2140ad) |
+| 2026-09-08 | zh | [超级用户日报: 2026-09-09](https://clauday.com/zh/article/e2e3d197-61ec-46d4-bcca-65afb9855877) |
+| 2026-09-08 | en | [Loop Daily: 2026-09-09](https://clauday.com/article/8cc68de8-bdc7-4639-ad56-c71fde3282c4) |
+| 2026-09-08 | en | [Super User Daily: 2026-09-09](https://clauday.com/article/386b2b76-8c71-42f4-a3c9-8145df2f584a) |
+| 2026-09-08 | zh | [CABAL：把合谋团伙放进审稿系统，看哪里先坏](https://clauday.com/zh/article/6c5a6ba1-8e41-4861-8f1a-1f95becc8fd1) |
+| 2026-09-08 | en | [CABAL: Put Agent Rings Inside Peer Review, Watch What Breaks](https://clauday.com/article/8132d7c4-8125-4ca5-8d5b-7e95998321ab) |
 <!--LATEST_END-->
