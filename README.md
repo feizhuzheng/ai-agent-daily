@@ -76,20 +76,20 @@ Every day this repo pulls the latest articles published on [clauday.com](https:/
 | 2026-08-27 | en | [Plaud Put a SIM Card in an Earbud Case So You Can Call Your Agents](news/2026-08-27/en-63afaeb9.md) | [clauday](https://clauday.com/article/63afaeb9-0d64-4d8e-8c51-437d429e200c) |
 | 2026-08-27 | zh | [VoiceMem 给语音 agent 装了左脑和右脑](news/2026-08-27/zh-bde9154f.md) | [clauday](https://clauday.com/zh/article/bde9154f-3302-4ae8-b2e3-9421612930ee) |
 | 2026-08-27 | en | [VoiceMem Gives Voice Agents a Left Brain and a Right Brain](news/2026-08-27/en-cd409eb5.md) | [clauday](https://clauday.com/article/cd409eb5-e1c1-4b5b-986f-c9d48b4c3aa0) |
-_Last synced: 2026-09-08
+_Last synced: 2026-09-09
 
 ## Latest
 <!--LATEST_START-->
 | Date | Lang | Title |
 |---|---|---|
-| 2026-09-08 | zh | [运营日志: 2026-09-09](https://clauday.com/zh/article/2355aff5-7429-45d1-a6b0-2b01c2914cc1) |
-| 2026-09-08 | en | [Ops Log: 2026-09-09](https://clauday.com/article/a11a88a2-cfc4-48f9-909a-8a4bb060899b) |
-| 2026-09-08 | zh | [灵感雷达: 2026-09-09](https://clauday.com/zh/article/61253516-b1e6-49b4-a682-bb8ea4f22540) |
-| 2026-09-08 | en | [Ideas Radar: 2026-09-09](https://clauday.com/article/706db0bb-a30f-4f99-9490-d2a667fb22f2) |
-| 2026-09-08 | zh | [Loop 日报: 2026-09-09](https://clauday.com/zh/article/bca6c674-14d2-4d5e-a1f0-40e4fb2140ad) |
-| 2026-09-08 | zh | [超级用户日报: 2026-09-09](https://clauday.com/zh/article/e2e3d197-61ec-46d4-bcca-65afb9855877) |
-| 2026-09-08 | en | [Loop Daily: 2026-09-09](https://clauday.com/article/8cc68de8-bdc7-4639-ad56-c71fde3282c4) |
-| 2026-09-08 | en | [Super User Daily: 2026-09-09](https://clauday.com/article/386b2b76-8c71-42f4-a3c9-8145df2f584a) |
-| 2026-09-08 | zh | [CABAL：把合谋团伙放进审稿系统，看哪里先坏](https://clauday.com/zh/article/6c5a6ba1-8e41-4861-8f1a-1f95becc8fd1) |
-| 2026-09-08 | en | [CABAL: Put Agent Rings Inside Peer Review, Watch What Breaks](https://clauday.com/article/8132d7c4-8125-4ca5-8d5b-7e95998321ab) |
+| 2026-09-09 | zh | [运营日志: 2026-09-10](https://clauday.com/zh/article/1e41ede2-06e2-472d-863e-2dc5b28b1d42) |
+| 2026-09-09 | en | [Ops Log: 2026-09-10](https://clauday.com/article/d01deb3a-d75a-4a10-bd20-edb13f2e55db) |
+| 2026-09-09 | zh | [灵感雷达: 2026-09-10](https://clauday.com/zh/article/ceea3eb5-3a73-4923-adbb-eea093ae24aa) |
+| 2026-09-09 | en | [Ideas Radar: 2026-09-10](https://clauday.com/article/2df949bd-5a45-438a-83a3-2f03b1f38863) |
+| 2026-09-09 | zh | [Loop 日报: 2026-09-10](https://clauday.com/zh/article/40ce8268-42b0-4c2a-b876-046dfd91b7ba) |
+| 2026-09-09 | en | [Loop Daily: 2026-09-10](https://clauday.com/article/b0854bc4-a64b-4a87-8348-1e8e8d5ae684) |
+| 2026-09-09 | zh | [超级用户日报: 2026-09-10](https://clauday.com/zh/article/0299bab7-6cd8-474b-bdd4-8921a4b83487) |
+| 2026-09-09 | en | [Super User Daily: 2026-09-10](https://clauday.com/article/8aa45165-a3ae-457e-9038-88b99318f12b) |
+| 2026-09-09 | zh | [OpenAI 的插件市场正在悄悄被厂商填满](https://clauday.com/zh/article/6f56c247-8858-41d3-970d-4b2fdded60dc) |
+| 2026-09-09 | en | [OpenAI's Plugin Marketplace Is Quietly Filling Up With Vendors](https://clauday.com/article/51a205eb-5a97-49dd-b98e-bd1b523734b8) |
 <!--LATEST_END-->
