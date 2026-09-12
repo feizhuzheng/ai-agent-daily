@@ -76,20 +76,20 @@ Every day this repo pulls the latest articles published on [clauday.com](https:/
 | 2026-08-27 | en | [Plaud Put a SIM Card in an Earbud Case So You Can Call Your Agents](news/2026-08-27/en-63afaeb9.md) | [clauday](https://clauday.com/article/63afaeb9-0d64-4d8e-8c51-437d429e200c) |
 | 2026-08-27 | zh | [VoiceMem 给语音 agent 装了左脑和右脑](news/2026-08-27/zh-bde9154f.md) | [clauday](https://clauday.com/zh/article/bde9154f-3302-4ae8-b2e3-9421612930ee) |
 | 2026-08-27 | en | [VoiceMem Gives Voice Agents a Left Brain and a Right Brain](news/2026-08-27/en-cd409eb5.md) | [clauday](https://clauday.com/article/cd409eb5-e1c1-4b5b-986f-c9d48b4c3aa0) |
-_Last synced: 2026-09-10
+_Last synced: 2026-09-11
 
 ## Latest
 <!--LATEST_START-->
 | Date | Lang | Title |
 |---|---|---|
-| 2026-09-10 | zh | [运营日志: 2026-09-11](https://clauday.com/zh/article/07fa00e2-fcb4-4489-a9f4-71a2703e917d) |
-| 2026-09-10 | en | [Ops Log: 2026-09-11](https://clauday.com/article/db4bd6ae-3924-4767-bb8e-8b329fd48974) |
-| 2026-09-10 | zh | [灵感雷达: 2026-09-11](https://clauday.com/zh/article/d91b6ea7-57b6-4be9-a9c5-cd752c726155) |
-| 2026-09-10 | en | [Ideas Radar: 2026-09-11](https://clauday.com/article/aedbcd76-1c2d-4728-8b80-1d35ce17ce93) |
-| 2026-09-10 | zh | [Loop 日报: 2026-09-11](https://clauday.com/zh/article/55d91e6c-1dd4-45b0-9b00-e3dc3b343c2b) |
-| 2026-09-10 | en | [Loop Daily: 2026-09-11](https://clauday.com/article/5cb555ed-619e-4d78-a2b9-6b4eb0561c09) |
-| 2026-09-10 | zh | [超级用户日报: 2026-09-11](https://clauday.com/zh/article/72e4e975-9c87-438a-a24f-bf40de456e4c) |
-| 2026-09-10 | en | [Super User Daily: 2026-09-11](https://clauday.com/article/8bb57f1d-c5c1-4654-a92e-65a343fab622) |
-| 2026-09-10 | zh | [原来 agent 在 SWE-Bench Pro 上也在作弊](https://clauday.com/zh/article/561e1701-0c51-4b6c-9258-ed27880c593a) |
-| 2026-09-10 | en | [Turns Out Agents Were Cheating on SWE-Bench Pro Too](https://clauday.com/article/d619f8b7-7b67-4ac7-9507-66e8828bd6c6) |
+| 2026-09-11 | zh | [运营日志: 2026-09-12](https://clauday.com/zh/article/106db1c5-0c05-4cad-b173-e82eb9108398) |
+| 2026-09-11 | en | [Ops Log: 2026-09-12](https://clauday.com/article/f4e4a44f-75f6-417e-8b73-ac5b28d01bbd) |
+| 2026-09-11 | zh | [灵感雷达: 2026-09-12](https://clauday.com/zh/article/0605bdb4-e773-455f-85b5-f921a97e31f4) |
+| 2026-09-11 | en | [Ideas Radar: 2026-09-12](https://clauday.com/article/109ebead-3d75-4a0f-9475-72a7051b8edf) |
+| 2026-09-11 | zh | [Loop 日报: 2026-09-12](https://clauday.com/zh/article/594e4488-30a8-4fa1-8183-98110a110ff7) |
+| 2026-09-11 | en | [Loop Daily: 2026-09-12](https://clauday.com/article/4a4ec29f-0f0f-4807-81ff-5d35dcd3a18a) |
+| 2026-09-11 | zh | [超级用户日报: 2026-09-12](https://clauday.com/zh/article/b848b243-32f9-4877-b784-8fef80de8ab6) |
+| 2026-09-11 | en | [Super User Daily: 2026-09-12](https://clauday.com/article/d95b42ec-cf1f-46ba-b23a-584b89983f31) |
+| 2026-09-11 | zh | [EvoSafeHarness：护栏应该是定制的，不是通用的](https://clauday.com/zh/article/b80dc3db-4fc8-45ef-8d45-36223640097c) |
+| 2026-09-11 | en | [EvoSafeHarness Says Your Agent's Guardrails Should Be Custom, Not Universal](https://clauday.com/article/38c1d1e8-2029-4aa1-b014-0eb8d0d81d1b) |
 <!--LATEST_END-->
