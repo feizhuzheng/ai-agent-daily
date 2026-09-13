@@ -76,20 +76,20 @@ Every day this repo pulls the latest articles published on [clauday.com](https:/
 | 2026-08-27 | en | [Plaud Put a SIM Card in an Earbud Case So You Can Call Your Agents](news/2026-08-27/en-63afaeb9.md) | [clauday](https://clauday.com/article/63afaeb9-0d64-4d8e-8c51-437d429e200c) |
 | 2026-08-27 | zh | [VoiceMem 给语音 agent 装了左脑和右脑](news/2026-08-27/zh-bde9154f.md) | [clauday](https://clauday.com/zh/article/bde9154f-3302-4ae8-b2e3-9421612930ee) |
 | 2026-08-27 | en | [VoiceMem Gives Voice Agents a Left Brain and a Right Brain](news/2026-08-27/en-cd409eb5.md) | [clauday](https://clauday.com/article/cd409eb5-e1c1-4b5b-986f-c9d48b4c3aa0) |
-_Last synced: 2026-09-11
+_Last synced: 2026-09-12
 
 ## Latest
 <!--LATEST_START-->
 | Date | Lang | Title |
 |---|---|---|
-| 2026-09-11 | zh | [运营日志: 2026-09-12](https://clauday.com/zh/article/106db1c5-0c05-4cad-b173-e82eb9108398) |
-| 2026-09-11 | en | [Ops Log: 2026-09-12](https://clauday.com/article/f4e4a44f-75f6-417e-8b73-ac5b28d01bbd) |
-| 2026-09-11 | zh | [灵感雷达: 2026-09-12](https://clauday.com/zh/article/0605bdb4-e773-455f-85b5-f921a97e31f4) |
-| 2026-09-11 | en | [Ideas Radar: 2026-09-12](https://clauday.com/article/109ebead-3d75-4a0f-9475-72a7051b8edf) |
-| 2026-09-11 | zh | [Loop 日报: 2026-09-12](https://clauday.com/zh/article/594e4488-30a8-4fa1-8183-98110a110ff7) |
-| 2026-09-11 | en | [Loop Daily: 2026-09-12](https://clauday.com/article/4a4ec29f-0f0f-4807-81ff-5d35dcd3a18a) |
-| 2026-09-11 | zh | [超级用户日报: 2026-09-12](https://clauday.com/zh/article/b848b243-32f9-4877-b784-8fef80de8ab6) |
-| 2026-09-11 | en | [Super User Daily: 2026-09-12](https://clauday.com/article/d95b42ec-cf1f-46ba-b23a-584b89983f31) |
-| 2026-09-11 | zh | [EvoSafeHarness：护栏应该是定制的，不是通用的](https://clauday.com/zh/article/b80dc3db-4fc8-45ef-8d45-36223640097c) |
-| 2026-09-11 | en | [EvoSafeHarness Says Your Agent's Guardrails Should Be Custom, Not Universal](https://clauday.com/article/38c1d1e8-2029-4aa1-b014-0eb8d0d81d1b) |
+| 2026-09-12 | zh | [运营日志: 2026-09-13](https://clauday.com/zh/article/f52117f5-0980-4791-88b2-a21423065fff) |
+| 2026-09-12 | en | [Ops Log: 2026-09-13](https://clauday.com/article/0544516f-f72c-4e7e-b43d-821c1adde6de) |
+| 2026-09-12 | zh | [决定上限的不是模型，是那道检查](https://clauday.com/zh/article/859c533b-cd77-412f-8250-691f8f4662bb) |
+| 2026-09-12 | en | [The Check Is the Product](https://clauday.com/article/44a8de44-6d4e-43f2-93aa-6475faf9ab16) |
+| 2026-09-12 | zh | [灵感雷达: 2026-09-13](https://clauday.com/zh/article/23e7ee75-b98f-41e1-8291-aaf73ddc3b02) |
+| 2026-09-12 | en | [Ideas Radar: 2026-09-13](https://clauday.com/article/8c6a5bd2-c95b-4e94-a41f-7722e07d83ac) |
+| 2026-09-12 | zh | [Loop 日报: 2026-09-13](https://clauday.com/zh/article/225a3331-d4d3-4c7d-a239-16acbef099ea) |
+| 2026-09-12 | en | [Loop Daily: 2026-09-13](https://clauday.com/article/5049d9a8-0546-4f2f-8728-47a076cf008f) |
+| 2026-09-12 | zh | [超级用户日报: 2026-09-13](https://clauday.com/zh/article/cba31d5a-867a-4c6a-ac41-4a4be881d6dd) |
+| 2026-09-12 | en | [Super User Daily: 2026-09-13](https://clauday.com/article/2124a953-9cd2-422c-9392-3456c44425b4) |
 <!--LATEST_END-->
