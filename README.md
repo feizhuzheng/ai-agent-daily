@@ -76,20 +76,20 @@ Every day this repo pulls the latest articles published on [clauday.com](https:/
 | 2026-08-27 | en | [Plaud Put a SIM Card in an Earbud Case So You Can Call Your Agents](news/2026-08-27/en-63afaeb9.md) | [clauday](https://clauday.com/article/63afaeb9-0d64-4d8e-8c51-437d429e200c) |
 | 2026-08-27 | zh | [VoiceMem 给语音 agent 装了左脑和右脑](news/2026-08-27/zh-bde9154f.md) | [clauday](https://clauday.com/zh/article/bde9154f-3302-4ae8-b2e3-9421612930ee) |
 | 2026-08-27 | en | [VoiceMem Gives Voice Agents a Left Brain and a Right Brain](news/2026-08-27/en-cd409eb5.md) | [clauday](https://clauday.com/article/cd409eb5-e1c1-4b5b-986f-c9d48b4c3aa0) |
-_Last synced: 2026-09-13
+_Last synced: 2026-09-14
 
 ## Latest
 <!--LATEST_START-->
 | Date | Lang | Title |
 |---|---|---|
-| 2026-09-13 | zh | [运营日志: 2026-09-14](https://clauday.com/zh/article/f26cbdc4-b791-49ad-833c-3f7a18b70b31) |
-| 2026-09-13 | en | [Ops Log: 2026-09-14](https://clauday.com/article/996d22f4-65b6-40f8-b596-bcf6860d6eaa) |
-| 2026-09-13 | zh | [你的 CLAUDE.md 是写给一个已经不存在的模型的](https://clauday.com/zh/article/90ba1a8c-e2a1-4033-a2f0-f871c33cbed8) |
-| 2026-09-13 | en | [Your CLAUDE.md Is Written for a Model That No Longer Exists](https://clauday.com/article/838673ae-9a18-4145-9b05-3f4c601c6420) |
-| 2026-09-13 | zh | [灵感雷达: 2026-09-14](https://clauday.com/zh/article/2b3045a7-1444-4afd-8cdd-6736ab5ec39f) |
-| 2026-09-13 | en | [Ideas Radar: 2026-09-14](https://clauday.com/article/9b8d433b-db67-4ad8-8f19-4204547a5565) |
-| 2026-09-13 | zh | [Loop 日报: 2026-09-14](https://clauday.com/zh/article/1594e4d6-273b-44a3-ad52-526ec8b2b2a3) |
-| 2026-09-13 | en | [Loop Daily: 2026-09-14](https://clauday.com/article/33b95978-115d-45bd-9451-f11fd33fd0df) |
-| 2026-09-13 | zh | [超级用户日报: 2026-09-14](https://clauday.com/zh/article/29889695-904f-4997-aa0f-b7d442c06446) |
-| 2026-09-13 | en | [Super User Daily: 2026-09-14](https://clauday.com/article/fa7da135-d0e8-4f80-8e17-be8a2bd87133) |
+| 2026-09-14 | zh | [运营日志: 2026-09-15](https://clauday.com/zh/article/7e3c3f4d-6d8c-40ae-9877-20ba8c5bfb01) |
+| 2026-09-14 | en | [Ops Log: 2026-09-15](https://clauday.com/article/00ea4f92-48af-4ae3-a2dd-213faba425ac) |
+| 2026-09-14 | zh | [灵感雷达: 2026-09-15](https://clauday.com/zh/article/e6fc367e-af03-4261-8004-98ce1f464c94) |
+| 2026-09-14 | en | [Ideas Radar: 2026-09-15](https://clauday.com/article/956d3dc6-88e0-42a9-a88d-8ac49733639a) |
+| 2026-09-14 | zh | [Loop 日报: 2026-09-15](https://clauday.com/zh/article/b79c7f22-15c9-494c-bfbd-be0b08580444) |
+| 2026-09-14 | en | [Loop Daily: 2026-09-15](https://clauday.com/article/4eec3cd6-6143-48b3-b08d-495ab739bfb9) |
+| 2026-09-14 | zh | [超级用户日报: 2026-09-15](https://clauday.com/zh/article/49402ff5-260e-4250-bbb2-3d16dd79aeef) |
+| 2026-09-14 | en | [Super User Daily: 2026-09-15](https://clauday.com/article/91b24fce-5e1f-4c33-91d3-49542c11cb0d) |
+| 2026-09-14 | zh | [七个人把一个开源权重的网络攻防 agent 送进了 CyberGym 前十](https://clauday.com/zh/article/780783fc-e950-47d5-8f30-d7f984789939) |
+| 2026-09-14 | en | [Seven People Trained an Open-Weight Cyber Agent Into the CyberGym Top Ten](https://clauday.com/article/2e0d29ff-c88a-4fe4-8f3f-0e6fe35d2884) |
 <!--LATEST_END-->
