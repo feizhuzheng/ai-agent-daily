@@ -76,20 +76,20 @@ Every day this repo pulls the latest articles published on [clauday.com](https:/
 | 2026-08-27 | en | [Plaud Put a SIM Card in an Earbud Case So You Can Call Your Agents](news/2026-08-27/en-63afaeb9.md) | [clauday](https://clauday.com/article/63afaeb9-0d64-4d8e-8c51-437d429e200c) |
 | 2026-08-27 | zh | [VoiceMem 给语音 agent 装了左脑和右脑](news/2026-08-27/zh-bde9154f.md) | [clauday](https://clauday.com/zh/article/bde9154f-3302-4ae8-b2e3-9421612930ee) |
 | 2026-08-27 | en | [VoiceMem Gives Voice Agents a Left Brain and a Right Brain](news/2026-08-27/en-cd409eb5.md) | [clauday](https://clauday.com/article/cd409eb5-e1c1-4b5b-986f-c9d48b4c3aa0) |
-_Last synced: 2026-09-14
+_Last synced: 2026-09-15
 
 ## Latest
 <!--LATEST_START-->
 | Date | Lang | Title |
 |---|---|---|
-| 2026-09-14 | zh | [运营日志: 2026-09-15](https://clauday.com/zh/article/7e3c3f4d-6d8c-40ae-9877-20ba8c5bfb01) |
-| 2026-09-14 | en | [Ops Log: 2026-09-15](https://clauday.com/article/00ea4f92-48af-4ae3-a2dd-213faba425ac) |
-| 2026-09-14 | zh | [灵感雷达: 2026-09-15](https://clauday.com/zh/article/e6fc367e-af03-4261-8004-98ce1f464c94) |
-| 2026-09-14 | en | [Ideas Radar: 2026-09-15](https://clauday.com/article/956d3dc6-88e0-42a9-a88d-8ac49733639a) |
-| 2026-09-14 | zh | [Loop 日报: 2026-09-15](https://clauday.com/zh/article/b79c7f22-15c9-494c-bfbd-be0b08580444) |
-| 2026-09-14 | en | [Loop Daily: 2026-09-15](https://clauday.com/article/4eec3cd6-6143-48b3-b08d-495ab739bfb9) |
-| 2026-09-14 | zh | [超级用户日报: 2026-09-15](https://clauday.com/zh/article/49402ff5-260e-4250-bbb2-3d16dd79aeef) |
-| 2026-09-14 | en | [Super User Daily: 2026-09-15](https://clauday.com/article/91b24fce-5e1f-4c33-91d3-49542c11cb0d) |
-| 2026-09-14 | zh | [七个人把一个开源权重的网络攻防 agent 送进了 CyberGym 前十](https://clauday.com/zh/article/780783fc-e950-47d5-8f30-d7f984789939) |
-| 2026-09-14 | en | [Seven People Trained an Open-Weight Cyber Agent Into the CyberGym Top Ten](https://clauday.com/article/2e0d29ff-c88a-4fe4-8f3f-0e6fe35d2884) |
+| 2026-09-15 | zh | [运营日志: 2026-09-16](https://clauday.com/zh/article/943617fd-08e0-4012-aa59-67b4fc720862) |
+| 2026-09-15 | en | [Ops Log: 2026-09-16](https://clauday.com/article/9c34440a-bae4-417f-9688-47389db599fd) |
+| 2026-09-15 | zh | [灵感雷达: 2026-09-16](https://clauday.com/zh/article/4dea2296-a0b6-482c-8635-08b75ad5d55b) |
+| 2026-09-15 | en | [Ideas Radar: 2026-09-16](https://clauday.com/article/f062bc5b-d0c0-4c87-9602-0864398ae1ab) |
+| 2026-09-15 | zh | [Loop 日报: 2026-09-16](https://clauday.com/zh/article/52c4dc12-ba06-4ab2-86a8-f9961c268444) |
+| 2026-09-15 | en | [Loop Daily: 2026-09-16](https://clauday.com/article/6ec13b05-d51e-442c-b3fa-957ef99e00fd) |
+| 2026-09-15 | zh | [超级用户日报: 2026-09-16](https://clauday.com/zh/article/1e5f1c48-641e-4bb4-bd15-5fb20391052a) |
+| 2026-09-15 | en | [Super User Daily: 2026-09-16](https://clauday.com/article/eb469f3d-c1aa-4d62-9777-9868f138f3b6) |
+| 2026-09-15 | zh | [先让智能体自己逛一遍，Kimi K3 就打赢了 GPT-6](https://clauday.com/zh/article/d5c93eee-a638-4271-b3a1-8b4af0326459) |
+| 2026-09-15 | en | [Let the Agent Wander the App First, and Kimi K3 Beats GPT-6](https://clauday.com/article/08f2130f-b117-40fc-986d-24dc926f217a) |
 <!--LATEST_END-->
