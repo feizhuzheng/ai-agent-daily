@@ -76,20 +76,20 @@ Every day this repo pulls the latest articles published on [clauday.com](https:/
 | 2026-08-27 | en | [Plaud Put a SIM Card in an Earbud Case So You Can Call Your Agents](news/2026-08-27/en-63afaeb9.md) | [clauday](https://clauday.com/article/63afaeb9-0d64-4d8e-8c51-437d429e200c) |
 | 2026-08-27 | zh | [VoiceMem 给语音 agent 装了左脑和右脑](news/2026-08-27/zh-bde9154f.md) | [clauday](https://clauday.com/zh/article/bde9154f-3302-4ae8-b2e3-9421612930ee) |
 | 2026-08-27 | en | [VoiceMem Gives Voice Agents a Left Brain and a Right Brain](news/2026-08-27/en-cd409eb5.md) | [clauday](https://clauday.com/article/cd409eb5-e1c1-4b5b-986f-c9d48b4c3aa0) |
-_Last synced: 2026-09-15
+_Last synced: 2026-09-16
 
 ## Latest
 <!--LATEST_START-->
 | Date | Lang | Title |
 |---|---|---|
-| 2026-09-15 | zh | [运营日志: 2026-09-16](https://clauday.com/zh/article/943617fd-08e0-4012-aa59-67b4fc720862) |
-| 2026-09-15 | en | [Ops Log: 2026-09-16](https://clauday.com/article/9c34440a-bae4-417f-9688-47389db599fd) |
-| 2026-09-15 | zh | [灵感雷达: 2026-09-16](https://clauday.com/zh/article/4dea2296-a0b6-482c-8635-08b75ad5d55b) |
-| 2026-09-15 | en | [Ideas Radar: 2026-09-16](https://clauday.com/article/f062bc5b-d0c0-4c87-9602-0864398ae1ab) |
-| 2026-09-15 | zh | [Loop 日报: 2026-09-16](https://clauday.com/zh/article/52c4dc12-ba06-4ab2-86a8-f9961c268444) |
-| 2026-09-15 | en | [Loop Daily: 2026-09-16](https://clauday.com/article/6ec13b05-d51e-442c-b3fa-957ef99e00fd) |
-| 2026-09-15 | zh | [超级用户日报: 2026-09-16](https://clauday.com/zh/article/1e5f1c48-641e-4bb4-bd15-5fb20391052a) |
-| 2026-09-15 | en | [Super User Daily: 2026-09-16](https://clauday.com/article/eb469f3d-c1aa-4d62-9777-9868f138f3b6) |
-| 2026-09-15 | zh | [先让智能体自己逛一遍，Kimi K3 就打赢了 GPT-6](https://clauday.com/zh/article/d5c93eee-a638-4271-b3a1-8b4af0326459) |
-| 2026-09-15 | en | [Let the Agent Wander the App First, and Kimi K3 Beats GPT-6](https://clauday.com/article/08f2130f-b117-40fc-986d-24dc926f217a) |
+| 2026-09-16 | zh | [运营日志: 2026-09-17](https://clauday.com/zh/article/00cfa38f-c337-4454-a286-3f5105c746f0) |
+| 2026-09-16 | en | [Ops Log: 2026-09-17](https://clauday.com/article/f505911c-27ed-4895-a0c0-66e3b5a6083e) |
+| 2026-09-16 | zh | [灵感雷达: 2026-09-17](https://clauday.com/zh/article/8c0865d3-dd70-4c3a-9d13-94247ba2ff6a) |
+| 2026-09-16 | en | [Ideas Radar: 2026-09-17](https://clauday.com/article/5fb329ef-3176-498b-a621-e97d0eda1bdb) |
+| 2026-09-16 | zh | [Loop 日报: 2026-09-17](https://clauday.com/zh/article/dfd555b6-2d91-48f5-8365-cc6e5f7f8cd7) |
+| 2026-09-16 | en | [Loop Daily: 2026-09-17](https://clauday.com/article/ca47d6b7-8678-4ac9-b983-6f76f028a8cf) |
+| 2026-09-16 | zh | [超级用户日报: 2026-09-17](https://clauday.com/zh/article/8584a981-f010-4806-b63a-aa0331c667e8) |
+| 2026-09-16 | en | [Super User Daily: 2026-09-17](https://clauday.com/article/c91cb9a7-4f17-4361-8bc1-66eb6d4e0303) |
+| 2026-09-16 | zh | [三个各自不怎么样的记忆补丁，叠起来就管用了](https://clauday.com/zh/article/937cfab9-c278-4a4f-beb7-9e5b63135ecb) |
+| 2026-09-16 | en | [Three Bad Memory Fixes Stack Into One That Works](https://clauday.com/article/f3db2c7c-fc41-4243-bea6-9c0bbeddda19) |
 <!--LATEST_END-->
