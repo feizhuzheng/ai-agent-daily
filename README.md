@@ -76,20 +76,20 @@ Every day this repo pulls the latest articles published on [clauday.com](https:/
 | 2026-08-27 | en | [Plaud Put a SIM Card in an Earbud Case So You Can Call Your Agents](news/2026-08-27/en-63afaeb9.md) | [clauday](https://clauday.com/article/63afaeb9-0d64-4d8e-8c51-437d429e200c) |
 | 2026-08-27 | zh | [VoiceMem 给语音 agent 装了左脑和右脑](news/2026-08-27/zh-bde9154f.md) | [clauday](https://clauday.com/zh/article/bde9154f-3302-4ae8-b2e3-9421612930ee) |
 | 2026-08-27 | en | [VoiceMem Gives Voice Agents a Left Brain and a Right Brain](news/2026-08-27/en-cd409eb5.md) | [clauday](https://clauday.com/article/cd409eb5-e1c1-4b5b-986f-c9d48b4c3aa0) |
-_Last synced: 2026-09-16
+_Last synced: 2026-09-18
 
 ## Latest
 <!--LATEST_START-->
 | Date | Lang | Title |
 |---|---|---|
-| 2026-09-16 | zh | [运营日志: 2026-09-17](https://clauday.com/zh/article/00cfa38f-c337-4454-a286-3f5105c746f0) |
-| 2026-09-16 | en | [Ops Log: 2026-09-17](https://clauday.com/article/f505911c-27ed-4895-a0c0-66e3b5a6083e) |
-| 2026-09-16 | zh | [灵感雷达: 2026-09-17](https://clauday.com/zh/article/8c0865d3-dd70-4c3a-9d13-94247ba2ff6a) |
-| 2026-09-16 | en | [Ideas Radar: 2026-09-17](https://clauday.com/article/5fb329ef-3176-498b-a621-e97d0eda1bdb) |
-| 2026-09-16 | zh | [Loop 日报: 2026-09-17](https://clauday.com/zh/article/dfd555b6-2d91-48f5-8365-cc6e5f7f8cd7) |
-| 2026-09-16 | en | [Loop Daily: 2026-09-17](https://clauday.com/article/ca47d6b7-8678-4ac9-b983-6f76f028a8cf) |
-| 2026-09-16 | zh | [超级用户日报: 2026-09-17](https://clauday.com/zh/article/8584a981-f010-4806-b63a-aa0331c667e8) |
-| 2026-09-16 | en | [Super User Daily: 2026-09-17](https://clauday.com/article/c91cb9a7-4f17-4361-8bc1-66eb6d4e0303) |
-| 2026-09-16 | zh | [三个各自不怎么样的记忆补丁，叠起来就管用了](https://clauday.com/zh/article/937cfab9-c278-4a4f-beb7-9e5b63135ecb) |
-| 2026-09-16 | en | [Three Bad Memory Fixes Stack Into One That Works](https://clauday.com/article/f3db2c7c-fc41-4243-bea6-9c0bbeddda19) |
+| 2026-09-18 | zh | [运营日志: 2026-09-19](https://clauday.com/zh/article/885c86b3-ce90-4faa-9983-47bfb2f2bc42) |
+| 2026-09-18 | en | [Ops Log: 2026-09-19](https://clauday.com/article/cc00fa6f-2db6-4309-b020-19bddf37220c) |
+| 2026-09-18 | zh | [灵感雷达: 2026-09-19](https://clauday.com/zh/article/f0f49893-5b09-4b52-b4bc-c963fefd5905) |
+| 2026-09-18 | en | [Ideas Radar: 2026-09-19](https://clauday.com/article/c31476c0-f4c8-4488-8c98-7fe91dafd0ed) |
+| 2026-09-18 | zh | [Loop 日报: 2026-09-19](https://clauday.com/zh/article/7af79130-8a9d-4bdf-822a-7eb8d08c7271) |
+| 2026-09-18 | en | [Loop Daily: 2026-09-19](https://clauday.com/article/0e3e60f0-6122-48fd-98ef-945b6ce2cb2e) |
+| 2026-09-18 | zh | [超级用户日报: 2026-09-19](https://clauday.com/zh/article/3d04db4c-4ed8-44e5-bef3-4e5249825dc6) |
+| 2026-09-18 | en | [Super User Daily: 2026-09-19](https://clauday.com/article/b7da1057-e7c3-4f94-a302-30a2312490dc) |
+| 2026-09-18 | zh | [有人在浏览器标签页里重造了一个 Jev，做到了 81%](https://clauday.com/zh/article/2c6c39c6-61bf-4e9b-9a71-aa2602620a0a) |
+| 2026-09-18 | en | [Somebody rebuilt Jev in a browser tab and got 81 percent](https://clauday.com/article/fc60d0c3-79bf-4d24-b4b5-67066e6ee42a) |
 <!--LATEST_END-->
