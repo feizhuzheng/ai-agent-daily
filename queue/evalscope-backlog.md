@@ -1,17 +1,24 @@
 # modelscope/evalscope top3 grind — backlog
 
-Target: feizhuzheng into modelscope/evalscope Contributors top3. Bar 2026-09-20 = pass #3 git-jxj=24 (#4 Moenupa=14 = early milestone). Squash: 1 merged PR = 1 commit. Pace 1-2 REAL PRs/day, no spam, prioritize issues, VARY module. WHY: gepa died (only merged own PRs); evalscope merges external real-person PRs daily. WATCH: if evalscope goes >10 days no external merge, warn user to switch.
+Target: feizhuzheng into modelscope/evalscope Contributors top3. Bar 2026-09-21 = pass #3 git-jxj=26 (#4 Moenupa=14 = early milestone). feizhuzheng=1 (#1751 merged). Squash: 1 merged PR = 1 commit. Pace 1-2 REAL PRs/day, no spam, VARY module. WHY: gepa died (only own PRs); evalscope merges external daily (Yunnglin merged #1751 in a day). WATCH: >10 days no external merge -> warn user.
 
-## Shipped (open, pending merge)
-- 2026-09-19: #1751 fix(metrics) Chinese multi-select answer parse (、 / /). Module utils/multi_choices.py + test. Awaiting.
-- 2026-09-20: #1752 fix(benchmarks) archive-member exact match in mvbench + videomme_v2 (endswith false-match 2.mp4 vs 12.mp4). Modules benchmarks/mvbench/utils.py + videomme_v2/utils.py + new test. Awaiting.
+## LESSON from #1752 (important)
+Yunnglin rejects synthetic/defensive/theoretical fixes — demands the bug reproduces on OFFICIAL data or a supported real path. So every PR must be issue-linked OR clearly reproducible on official/default data. Prefer real logic bugs + regression tests + (for eval-affecting changes) an evaluation_version bump (precedent #1676).
 
-## High-value next picks (verified; vary module; space out same-module)
-- multi_choices.py follow-on (space out from #1751): Chinese connectors 和/或 without spaces (答案：A和C) still truncate to first label; English handles "A and B"/"A or B". Extend parse_answers_zh to parity.
-- Issue #930 (enhancement, maintainer-friendly): allow selecting prompt template (SINGLE_ANSWER vs SINGLE_ANSWER_COT) via CLI/dataset-args without redefining adapter. Good small feature PR.
-- Issue #1708 (open bug, HARDER): MVBench + Qwen3VL only extracts 1 video frame (frames_indices=[0] for an 82-frame clip) then VL processor 400s. Real frame-sampling/fps bug, needs deeper investigation into video frame extraction. NOT the archive-lookup bug (that was #1752).
-- Issue #1108: Audio ASR (LibriSpeech/TORGO) 400 in sglang server mode; audio payload formatting; needs repro.
-- Issue #1606 (7 comments): ifbench metric problem; investigate first.
+## Shipped
+- #1751 MERGED 09-20: fix(metrics) Chinese multi-select parse. Module utils/multi_choices.py. = feizhuzheng's 1st commit.
+- #1752 OPEN (downscoping): archive-member match. Video-MME-v2 half conceded (synthetic); MVBench half is a REAL collision (action_antonym/ssv2_video.zip: 9741.webm vs 209741.webm). Awaiting Yunnglin's call on downscope-to-MVBench-only.
+- #1755 OPEN 09-21: fix(ifbench) word-boundary keyword/person-name counting (art-in-start, Mia-in-Miami). Module benchmarks/ifbench/. + version bump + tests. Awaiting.
+
+## High-value next picks (verified, clear-impact; vary module; space out same-module)
+- ifbench StopWordPercentageChecker (ratio:stop_words): evalscope dropped upstream's `if num_words==0: return False` guard -> ZeroDivisionError on empty/whitespace model response (crashes metric; matches #1606's described 静默跳过). Clean one-line fix, clear impact. STRONG next pick (maybe links #1606).
+- ifbench PronounCountChecker (count:pronouns): evalscope uses a smaller pronoun set than official IFBench (dropped demonstrative/interrogative/indefinite) -> undercounts vs official. Verify vs upstream first; judgment call.
+- multi_choices.py follow-on (space out from #1751): Chinese connectors 和/或 without spaces (答案：A和C) truncate to first label; English handles "A and B". Extend parse_answers_zh to parity — but frame with real impact per the #1752 lesson.
+
+## AVOID
+- Issue #930 (prompt-template selection): Yunnglin claimed it himself ("I'll work on a PR"). Don't compete.
+- Issue #1040 (text2image local /v1/images/generations): Yunnglin said not-yet-supported/later. Skip.
+- Synthetic/defensive-only changes (see #1752 lesson).
 
 ## Notes
-Maintainers: Yunnglin (primary merger), wangxingjun778. Conventional-commit titles fix(<module>): . tests/ is ruff-format-excluded. Contribution types: benchmark/dataset-mode/adapter/eval-bug/doc/test.
+Maintainers: Yunnglin (primary merger, thorough reviewer — verifies against real data), wangxingjun778. Conventional-commit titles fix(<module>): . tests/ ruff-format-excluded. eval-behavior changes need evaluation_version bump (precedent #1676).
