@@ -76,20 +76,20 @@ Every day this repo pulls the latest articles published on [clauday.com](https:/
 | 2026-08-27 | en | [Plaud Put a SIM Card in an Earbud Case So You Can Call Your Agents](news/2026-08-27/en-63afaeb9.md) | [clauday](https://clauday.com/article/63afaeb9-0d64-4d8e-8c51-437d429e200c) |
 | 2026-08-27 | zh | [VoiceMem 给语音 agent 装了左脑和右脑](news/2026-08-27/zh-bde9154f.md) | [clauday](https://clauday.com/zh/article/bde9154f-3302-4ae8-b2e3-9421612930ee) |
 | 2026-08-27 | en | [VoiceMem Gives Voice Agents a Left Brain and a Right Brain](news/2026-08-27/en-cd409eb5.md) | [clauday](https://clauday.com/article/cd409eb5-e1c1-4b5b-986f-c9d48b4c3aa0) |
-_Last synced: 2026-09-19
+_Last synced: 2026-09-20
 
 ## Latest
 <!--LATEST_START-->
 | Date | Lang | Title |
 |---|---|---|
-| 2026-09-19 | zh | [运营日志: 2026-09-20](https://clauday.com/zh/article/c5d2d8b7-c8c7-4370-a8b4-a6c92c7e88ce) |
-| 2026-09-19 | en | [Ops Log: 2026-09-20](https://clauday.com/article/68092581-de58-489b-80a8-25cf4c276c9b) |
-| 2026-09-19 | zh | [这周，进攻的价格是 4.65 美元](https://clauday.com/zh/article/4af6e906-d7c3-4fbf-85e5-f45c2c18d52f) |
-| 2026-09-19 | en | [Offense Cost $4.65 This Week](https://clauday.com/article/18c521c6-62fd-401a-ab51-b1676200ac86) |
-| 2026-09-19 | zh | [灵感雷达: 2026-09-20](https://clauday.com/zh/article/259df7c1-8952-4a42-9f0e-234dbc16b0b7) |
-| 2026-09-19 | en | [Ideas Radar: 2026-09-20](https://clauday.com/article/1552b538-6a01-49ff-bbc5-252d5763f9fb) |
-| 2026-09-19 | zh | [Loop 日报: 2026-09-20](https://clauday.com/zh/article/a727acde-ba81-419b-9add-89207ddc3e27) |
-| 2026-09-19 | en | [Loop Daily: 2026-09-20](https://clauday.com/article/8a89b23e-9d30-4479-b977-44e8dc15c563) |
-| 2026-09-19 | zh | [超级用户日报: 2026-09-20](https://clauday.com/zh/article/b77353c3-6617-4302-b5d2-034ccb645b97) |
-| 2026-09-19 | en | [Super User Daily: 2026-09-20](https://clauday.com/article/72b4591a-0187-4f87-ac08-9f3b9a207455) |
+| 2026-09-20 | zh | [运营日志: 2026-09-21](https://clauday.com/zh/article/6e52ea07-d6a3-46fd-b89d-d230f8036111) |
+| 2026-09-20 | en | [Ops Log: 2026-09-21](https://clauday.com/article/812a9766-535f-4385-b2d1-8525861c65f5) |
+| 2026-09-20 | zh | [外壳成了产品，而它的计分板是最脆的地方](https://clauday.com/zh/article/58dc7ad2-fd42-4fea-85ef-9c90873a0e5c) |
+| 2026-09-20 | en | [The Harness Is the Product. Its Scoreboard Is the Weak Spot.](https://clauday.com/article/0adca860-cfbc-47d2-b26a-71dce24f2beb) |
+| 2026-09-20 | zh | [灵感雷达: 2026-09-21](https://clauday.com/zh/article/c3ca1814-cd82-4586-942c-acbaca59ab54) |
+| 2026-09-20 | en | [Ideas Radar: 2026-09-21](https://clauday.com/article/e673bf02-d520-4093-b4b9-9433ebfe76c1) |
+| 2026-09-20 | zh | [Loop 日报: 2026-09-21](https://clauday.com/zh/article/7997b56c-9be7-4451-ac06-92e5252e278c) |
+| 2026-09-20 | en | [Loop Daily: 2026-09-21](https://clauday.com/article/c76c7b2b-5e84-428a-a452-82690e23f082) |
+| 2026-09-20 | zh | [超级用户日报: 2026-09-21](https://clauday.com/zh/article/3ec7f67e-b8ce-490b-8638-718523d2bcd9) |
+| 2026-09-20 | en | [Super User Daily: 2026-09-21](https://clauday.com/article/b73ba671-dd14-4788-aa99-0091444b549d) |
 <!--LATEST_END-->
