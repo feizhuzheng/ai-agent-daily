@@ -76,20 +76,20 @@ Every day this repo pulls the latest articles published on [clauday.com](https:/
 | 2026-08-27 | en | [Plaud Put a SIM Card in an Earbud Case So You Can Call Your Agents](news/2026-08-27/en-63afaeb9.md) | [clauday](https://clauday.com/article/63afaeb9-0d64-4d8e-8c51-437d429e200c) |
 | 2026-08-27 | zh | [VoiceMem 给语音 agent 装了左脑和右脑](news/2026-08-27/zh-bde9154f.md) | [clauday](https://clauday.com/zh/article/bde9154f-3302-4ae8-b2e3-9421612930ee) |
 | 2026-08-27 | en | [VoiceMem Gives Voice Agents a Left Brain and a Right Brain](news/2026-08-27/en-cd409eb5.md) | [clauday](https://clauday.com/article/cd409eb5-e1c1-4b5b-986f-c9d48b4c3aa0) |
-_Last synced: 2026-09-20
+_Last synced: 2026-09-21
 
 ## Latest
 <!--LATEST_START-->
 | Date | Lang | Title |
 |---|---|---|
-| 2026-09-20 | zh | [运营日志: 2026-09-21](https://clauday.com/zh/article/6e52ea07-d6a3-46fd-b89d-d230f8036111) |
-| 2026-09-20 | en | [Ops Log: 2026-09-21](https://clauday.com/article/812a9766-535f-4385-b2d1-8525861c65f5) |
-| 2026-09-20 | zh | [外壳成了产品，而它的计分板是最脆的地方](https://clauday.com/zh/article/58dc7ad2-fd42-4fea-85ef-9c90873a0e5c) |
-| 2026-09-20 | en | [The Harness Is the Product. Its Scoreboard Is the Weak Spot.](https://clauday.com/article/0adca860-cfbc-47d2-b26a-71dce24f2beb) |
-| 2026-09-20 | zh | [灵感雷达: 2026-09-21](https://clauday.com/zh/article/c3ca1814-cd82-4586-942c-acbaca59ab54) |
-| 2026-09-20 | en | [Ideas Radar: 2026-09-21](https://clauday.com/article/e673bf02-d520-4093-b4b9-9433ebfe76c1) |
-| 2026-09-20 | zh | [Loop 日报: 2026-09-21](https://clauday.com/zh/article/7997b56c-9be7-4451-ac06-92e5252e278c) |
-| 2026-09-20 | en | [Loop Daily: 2026-09-21](https://clauday.com/article/c76c7b2b-5e84-428a-a452-82690e23f082) |
-| 2026-09-20 | zh | [超级用户日报: 2026-09-21](https://clauday.com/zh/article/3ec7f67e-b8ce-490b-8638-718523d2bcd9) |
-| 2026-09-20 | en | [Super User Daily: 2026-09-21](https://clauday.com/article/b73ba671-dd14-4788-aa99-0091444b549d) |
+| 2026-09-21 | zh | [运营日志: 2026-09-22](https://clauday.com/zh/article/f25ff75e-75a7-4e37-b8c2-ba0326d47ce6) |
+| 2026-09-21 | en | [Ops Log: 2026-09-22](https://clauday.com/article/58a7dc01-ac6a-4fe6-8f97-685692fc6944) |
+| 2026-09-21 | zh | [灵感雷达: 2026-09-22](https://clauday.com/zh/article/35ff77b4-9b6e-418b-80a0-59d9d3d0a481) |
+| 2026-09-21 | en | [Ideas Radar: 2026-09-22](https://clauday.com/article/6da0d7d0-d5fa-47c3-b43e-6f456b19561a) |
+| 2026-09-21 | zh | [Loop 日报: 2026-09-22](https://clauday.com/zh/article/1e32b8f7-6581-4a10-88f3-3a111832efec) |
+| 2026-09-21 | en | [Loop Daily: 2026-09-22](https://clauday.com/article/da5a4f26-4a1d-4e68-9a46-3f4805e65fe3) |
+| 2026-09-21 | zh | [超级用户日报: 2026-09-22](https://clauday.com/zh/article/5ba396c6-2968-4884-83ee-fbfd08be2546) |
+| 2026-09-21 | en | [Super User Daily: 2026-09-22](https://clauday.com/article/201ff1e9-2b4f-4c42-816f-17871e6c3520) |
+| 2026-09-21 | zh | [Linear 的测试套件今年翻了四倍，CI 成了瓶颈](https://clauday.com/zh/article/e4d39952-5c5c-4f17-a47d-0d3d432dcb39) |
+| 2026-09-21 | en | [Linear's test suite quadrupled this year and CI became the bottleneck](https://clauday.com/article/4dbacd28-685a-488f-9e74-91e5c4b1b435) |
 <!--LATEST_END-->
