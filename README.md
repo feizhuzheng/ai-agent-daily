@@ -76,20 +76,20 @@ Every day this repo pulls the latest articles published on [clauday.com](https:/
 | 2026-08-27 | en | [Plaud Put a SIM Card in an Earbud Case So You Can Call Your Agents](news/2026-08-27/en-63afaeb9.md) | [clauday](https://clauday.com/article/63afaeb9-0d64-4d8e-8c51-437d429e200c) |
 | 2026-08-27 | zh | [VoiceMem 给语音 agent 装了左脑和右脑](news/2026-08-27/zh-bde9154f.md) | [clauday](https://clauday.com/zh/article/bde9154f-3302-4ae8-b2e3-9421612930ee) |
 | 2026-08-27 | en | [VoiceMem Gives Voice Agents a Left Brain and a Right Brain](news/2026-08-27/en-cd409eb5.md) | [clauday](https://clauday.com/article/cd409eb5-e1c1-4b5b-986f-c9d48b4c3aa0) |
-_Last synced: 2026-09-21
+_Last synced: 2026-09-22
 
 ## Latest
 <!--LATEST_START-->
 | Date | Lang | Title |
 |---|---|---|
-| 2026-09-21 | zh | [运营日志: 2026-09-22](https://clauday.com/zh/article/f25ff75e-75a7-4e37-b8c2-ba0326d47ce6) |
-| 2026-09-21 | en | [Ops Log: 2026-09-22](https://clauday.com/article/58a7dc01-ac6a-4fe6-8f97-685692fc6944) |
-| 2026-09-21 | zh | [灵感雷达: 2026-09-22](https://clauday.com/zh/article/35ff77b4-9b6e-418b-80a0-59d9d3d0a481) |
-| 2026-09-21 | en | [Ideas Radar: 2026-09-22](https://clauday.com/article/6da0d7d0-d5fa-47c3-b43e-6f456b19561a) |
-| 2026-09-21 | zh | [Loop 日报: 2026-09-22](https://clauday.com/zh/article/1e32b8f7-6581-4a10-88f3-3a111832efec) |
-| 2026-09-21 | en | [Loop Daily: 2026-09-22](https://clauday.com/article/da5a4f26-4a1d-4e68-9a46-3f4805e65fe3) |
-| 2026-09-21 | zh | [超级用户日报: 2026-09-22](https://clauday.com/zh/article/5ba396c6-2968-4884-83ee-fbfd08be2546) |
-| 2026-09-21 | en | [Super User Daily: 2026-09-22](https://clauday.com/article/201ff1e9-2b4f-4c42-816f-17871e6c3520) |
-| 2026-09-21 | zh | [Linear 的测试套件今年翻了四倍，CI 成了瓶颈](https://clauday.com/zh/article/e4d39952-5c5c-4f17-a47d-0d3d432dcb39) |
-| 2026-09-21 | en | [Linear's test suite quadrupled this year and CI became the bottleneck](https://clauday.com/article/4dbacd28-685a-488f-9e74-91e5c4b1b435) |
+| 2026-09-22 | zh | [运营日志: 2026-09-23](https://clauday.com/zh/article/3d41aec6-31b6-425c-bf0d-8662121be6c8) |
+| 2026-09-22 | en | [Ops Log: 2026-09-23](https://clauday.com/article/7c2398aa-cfbf-4d2c-bb68-35b3a90d0f8c) |
+| 2026-09-22 | zh | [灵感雷达: 2026-09-23](https://clauday.com/zh/article/6becb4a5-c4d7-4172-ba24-24d177ec8c7d) |
+| 2026-09-22 | en | [Ideas Radar: 2026-09-23](https://clauday.com/article/7c488f14-10da-4404-9a32-166595daaeb0) |
+| 2026-09-22 | zh | [Loop 日报: 2026-09-23](https://clauday.com/zh/article/7c204bd0-0f97-4893-b494-79a456d81a2b) |
+| 2026-09-22 | en | [Loop Daily: 2026-09-23](https://clauday.com/article/d77ecaab-30c3-43fd-bde6-f2fc4449c3b5) |
+| 2026-09-22 | zh | [超级用户日报: 2026-09-23](https://clauday.com/zh/article/ed93b934-54fb-4f60-9762-bf97ca31ea48) |
+| 2026-09-22 | en | [Super User Daily: 2026-09-23](https://clauday.com/article/9d6899c4-2dc6-48c3-aa5f-61e0f7f5c890) |
+| 2026-09-22 | zh | [自我进化的 agent harness 大多是在背题，这篇给出了数字](https://clauday.com/zh/article/c94691ff-0c65-4d48-9c6d-4de8976f1f77) |
+| 2026-09-22 | en | [Self-improving agent harnesses mostly memorize the test, and here are the numbers](https://clauday.com/article/5bdba603-f1b6-4aed-8555-d947b797d379) |
 <!--LATEST_END-->
