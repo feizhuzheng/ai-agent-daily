@@ -76,20 +76,20 @@ Every day this repo pulls the latest articles published on [clauday.com](https:/
 | 2026-08-27 | en | [Plaud Put a SIM Card in an Earbud Case So You Can Call Your Agents](news/2026-08-27/en-63afaeb9.md) | [clauday](https://clauday.com/article/63afaeb9-0d64-4d8e-8c51-437d429e200c) |
 | 2026-08-27 | zh | [VoiceMem 给语音 agent 装了左脑和右脑](news/2026-08-27/zh-bde9154f.md) | [clauday](https://clauday.com/zh/article/bde9154f-3302-4ae8-b2e3-9421612930ee) |
 | 2026-08-27 | en | [VoiceMem Gives Voice Agents a Left Brain and a Right Brain](news/2026-08-27/en-cd409eb5.md) | [clauday](https://clauday.com/article/cd409eb5-e1c1-4b5b-986f-c9d48b4c3aa0) |
-_Last synced: 2026-09-22
+_Last synced: 2026-09-23
 
 ## Latest
 <!--LATEST_START-->
 | Date | Lang | Title |
 |---|---|---|
-| 2026-09-22 | zh | [运营日志: 2026-09-23](https://clauday.com/zh/article/3d41aec6-31b6-425c-bf0d-8662121be6c8) |
-| 2026-09-22 | en | [Ops Log: 2026-09-23](https://clauday.com/article/7c2398aa-cfbf-4d2c-bb68-35b3a90d0f8c) |
-| 2026-09-22 | zh | [灵感雷达: 2026-09-23](https://clauday.com/zh/article/6becb4a5-c4d7-4172-ba24-24d177ec8c7d) |
-| 2026-09-22 | en | [Ideas Radar: 2026-09-23](https://clauday.com/article/7c488f14-10da-4404-9a32-166595daaeb0) |
-| 2026-09-22 | zh | [Loop 日报: 2026-09-23](https://clauday.com/zh/article/7c204bd0-0f97-4893-b494-79a456d81a2b) |
-| 2026-09-22 | en | [Loop Daily: 2026-09-23](https://clauday.com/article/d77ecaab-30c3-43fd-bde6-f2fc4449c3b5) |
-| 2026-09-22 | zh | [超级用户日报: 2026-09-23](https://clauday.com/zh/article/ed93b934-54fb-4f60-9762-bf97ca31ea48) |
-| 2026-09-22 | en | [Super User Daily: 2026-09-23](https://clauday.com/article/9d6899c4-2dc6-48c3-aa5f-61e0f7f5c890) |
-| 2026-09-22 | zh | [自我进化的 agent harness 大多是在背题，这篇给出了数字](https://clauday.com/zh/article/c94691ff-0c65-4d48-9c6d-4de8976f1f77) |
-| 2026-09-22 | en | [Self-improving agent harnesses mostly memorize the test, and here are the numbers](https://clauday.com/article/5bdba603-f1b6-4aed-8555-d947b797d379) |
+| 2026-09-23 | zh | [运营日志: 2026-09-24](https://clauday.com/zh/article/83abf396-297b-44c3-b07b-d539a2013f9f) |
+| 2026-09-23 | en | [Ops Log: 2026-09-24](https://clauday.com/article/4ec09d01-7f95-445d-a0d5-5dcaef8cc46d) |
+| 2026-09-23 | zh | [灵感雷达: 2026-09-24](https://clauday.com/zh/article/8a3676ce-bbf0-4170-bcfe-b1ba4d710a7e) |
+| 2026-09-23 | en | [Ideas Radar: 2026-09-24](https://clauday.com/article/1872fae7-663a-45fb-b9f2-024a181386fd) |
+| 2026-09-23 | zh | [Loop 日报: 2026-09-24](https://clauday.com/zh/article/bcfd21d3-f67e-44d0-9f1c-479d34b602a9) |
+| 2026-09-23 | en | [Loop Daily: 2026-09-24](https://clauday.com/article/b840be35-993e-45b4-9796-884e25e6c0ea) |
+| 2026-09-23 | zh | [超级用户日报: 2026-09-24](https://clauday.com/zh/article/0697ae6e-8575-41e2-8dc9-799caf4d7b07) |
+| 2026-09-23 | en | [Super User Daily: 2026-09-24](https://clauday.com/article/18154116-6e24-496d-a984-8740df2f06ea) |
+| 2026-09-23 | zh | [九个 agent 为你的持仓吵一架，成本五分钱](https://clauday.com/zh/article/18084afd-f19d-4570-81a2-bdc167fdf050) |
+| 2026-09-23 | en | [Nine agents argue about your stocks for five cents](https://clauday.com/article/6d3af68a-dbe7-4b65-91a9-8e7d76adbef3) |
 <!--LATEST_END-->
